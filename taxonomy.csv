@@ -1,0 +1,401 @@
+Channel,Theme,Designation
+Leisure,Bashes ,Anniversary
+Leisure,Bashes ,Baby Shower
+Leisure,Bashes ,Bachelor Party
+Leisure,Bashes ,Baptism
+Leisure,Bashes ,Bar Mitzvah
+Leisure,Bashes ,Birthday
+Leisure,Bashes ,Bridal Shower
+Leisure,Bashes ,Christening
+Leisure,Bashes ,Christmas Party
+Leisure,Bashes ,Graduation
+Leisure,Bashes ,Home Coming
+Leisure,Bashes ,House Warming
+Leisure,Bashes ,New Years Eve Party 
+Leisure,Bashes ,Opening Night
+Leisure,Bashes ,Premier Night
+Leisure,Bashes ,Reunion
+Leisure,Bashes ,Tailgate Party
+Leisure,Concerts ,Alternative Music
+Leisure,Concerts ,Blues
+Leisure,Concerts ,Children's Music
+Leisure,Concerts ,Christian & Gospel
+Leisure,Concerts ,Classical
+Leisure,Concerts ,Stageshow Comedy
+Leisure,Concerts ,Country
+Leisure,Concerts ,Dance
+Leisure,Concerts ,Electronic
+Leisure,Concerts ,Hip-Hop/Rap
+Leisure,Concerts ,Indie Spotlight
+Leisure,Concerts ,Jazz
+Leisure,Concerts ,Latino
+Leisure,Concerts ,Pop
+Leisure,Concerts ,R&B/Soul
+Leisure,Concerts ,Reggae
+Leisure,Concerts ,Rock
+Leisure,Concerts ,World Music
+Leisure,Exhibitions  ,Collection (museum)
+Leisure,Exhibitions  ,Exhibit
+Leisure,Exhibitions  ,Expo
+Leisure,Exhibitions  ,Funfair
+Leisure,Exhibitions  ,Horse show
+Leisure,Exhibitions  ,Science fair
+Leisure,Exhibitions  ,Solo show (art exhibition)
+Leisure,Exhibitions  ,State fair
+Leisure,Exhibitions  ,Trade fair
+Leisure,Exhibitions  ,World's Fair
+Leisure,Exhibitions  ,Runway Show
+Leisure,Festivals  ,Arts & Crafts
+Leisure,Festivals  ,Carnival
+Leisure,Festivals  ,Celebration
+Leisure,Festivals  ,Children
+Leisure,Festivals  ,Cities
+Leisure,Festivals  ,Fest
+Leisure,Festivals  ,Film
+Leisure,Festivals  ,Folk life
+Leisure,Festivals  ,Food & Beverage
+Leisure,Festivals  ,Heritage & Religious
+Leisure,Festivals  ,Holiday
+Leisure,Festivals  ,Motorsports
+Leisure,Festivals  ,Music
+Leisure,Festivals  ,States
+Leisure,Festivals  ,Theater
+Leisure,Fundraisers  ,Abortion & Family Planning
+Leisure,Fundraisers  ,African-American
+Leisure,Fundraisers  ,Aids
+Leisure,Fundraisers  ,American Indian
+Leisure,Fundraisers  ,Animal Protection
+Leisure,Fundraisers  ,Asia & Asian-American
+Leisure,Fundraisers  ,Blind & Visually-Impaired
+Leisure,Fundraisers  ,Cancer
+Leisure,Fundraisers  ,Child Protection
+Leisure,Fundraisers  ,Child Sponsorship
+Leisure,Fundraisers  ,Civil Rights & Advocacy
+Leisure,Fundraisers  ,Consumer Protection And Legal Aid
+Leisure,Fundraisers  ,Crime Prevention
+Leisure,Fundraisers  ,Disabled
+Leisure,Fundraisers  ,Drug & Alcohol Abuse
+Leisure,Fundraisers  ,Environment
+Leisure,Fundraisers  ,Gun Control (Pro/Con)
+Leisure,Fundraisers  ,Health – General
+Leisure,Fundraisers  ,Hispanic
+Leisure,Fundraisers  ,Homelessness & Housing
+Leisure,Fundraisers  ,Human Rights
+Leisure,Fundraisers  ,Human Services
+Leisure,Fundraisers  ,Hunger
+Leisure,Fundraisers  ,International Relief & Development
+Leisure,Fundraisers  ,Jewish & Israel
+Leisure,Fundraisers  ,Literacy
+Leisure,Fundraisers  ,Mental Health & Retardation
+Leisure,Fundraisers  ,Peace & International Relations
+Leisure,Fundraisers  ,Politics
+Leisure,Fundraisers  ,Population Planning
+Leisure,Fundraisers  ,Public Policy
+Leisure,Fundraisers  ,Senior Citizens
+Leisure,Fundraisers  ,Terminally Or Chronically Ill
+Leisure,Fundraisers  ,Veterans & Military
+Leisure,Fundraisers  ,Women's Rights
+Leisure,Fundraisers  ,Youth – Residential Care
+Leisure,Fundraisers  ,Youth Development
+Leisure,Literary  ,Adventure Novel
+Leisure,Literary  ,Autobiography
+Leisure,Literary  ,Biographies
+Leisure,Literary  ,Children's Literature
+Leisure,Literary  ,Comic Novel
+Leisure,Literary  ,Conspiracy Fiction
+Leisure,Literary  ,Crime Fiction
+Leisure,Literary  ,Detective Fiction
+Leisure,Literary  ,Drama Novel
+Leisure,Literary  ,Easy To Read
+Leisure,Literary  ,Essay
+Leisure,Literary  ,Fables
+Leisure,Literary  ,Fairytale
+Leisure,Literary  ,Fantasy
+Leisure,Literary  ,Folklore
+Leisure,Literary  ,Folktales
+Leisure,Literary  ,Gothic Fiction
+Leisure,Literary  ,Historical Fiction
+Leisure,Literary  ,Historical Romance
+Leisure,Literary  ,Horror Fiction
+Leisure,Literary  ,Journalism
+Leisure,Literary  ,Legal Thriller
+Leisure,Literary  ,Medical Novel
+Leisure,Literary  ,Memoir
+Leisure,Literary  ,Mystery
+Leisure,Literary  ,Mystery Fiction
+Leisure,Literary  ,Nonfiction Books
+Leisure,Literary  ,Philosophical Novel
+Leisure,Literary  ,Picture Books
+Leisure,Literary  ,Poetry
+Leisure,Literary  ,Political Fiction
+Leisure,Literary  ,Psychological Thriller
+Leisure,Literary  ,Realistic Fiction
+Leisure,Literary  ,Romance Novel
+Leisure,Literary  ,Saga
+Leisure,Literary  ,Satire
+Leisure,Literary  ,Science Fiction
+Leisure,Literary  ,Short Story
+Leisure,Literary  ,Slave Narrative
+Leisure,Literary  ,Speculative Fiction
+Leisure,Literary  ,Spy Fiction
+Leisure,Literary  ,Tragedy
+Leisure,Movies  ,Action & Adventure
+Leisure,Movies  ,Classical Film
+Leisure,Movies  ,Comedy
+Leisure,Movies  ,Documentary
+Leisure,Movies  ,Dramatic Work
+Leisure,Movies  ,Horror
+Leisure,Movies  ,Independent
+Leisure,Movies  ,Kids & Family
+Leisure,Movies  ,Musical
+Leisure,Movies  ,Romance Film
+Leisure,Movies  ,Sci-Fi & Fantasy
+Leisure,Movies  ,Short Films
+Leisure,Movies  ,Sports Drama
+Leisure,Movies  ,Thriller
+Leisure,Movies  ,Western
+Leisure,Nightlife  ,Cigar Lounge
+Leisure,Nightlife  ,Jazz Lounge
+Leisure,Nightlife  ,Live Music
+Leisure,Nightlife  ,Lounge
+Leisure,Nightlife  ,Night Club
+Leisure,Nightlife  ,Nightlife Parties
+Leisure,Nightlife  ,Non-Sports Bar
+Leisure,Nightlife  ,Poetry Reading
+Leisure,Nightlife  ,Pubs
+Leisure,Nightlife  ,Shows
+Leisure,Nightlife  ,Sports Bar
+Leisure,Receptions,Anniversary Party
+Leisure,Receptions,Award Presentations
+Leisure,Receptions,Convention Galas
+Leisure,Receptions,Employee Recognition Events
+Leisure,Receptions,Holiday Parties
+Leisure,Receptions,Meetings
+Leisure,Receptions,Formal Parties
+Leisure,Receptions,Rehearsal Dinners
+Leisure,Receptions,Social Gathering
+Leisure,Receptions,Wedding Receptions
+Leisure,Restaurants,Outdoor Dining
+Leisure,Restaurants,Cuisine
+Leisure,Restaurants,Best Overall
+Leisure,Restaurants,Neighborhood Gem
+Leisure,Restaurants,Best Ambiance
+Leisure,Restaurants,Most Booked 
+Leisure,Restaurants,Best Service
+Leisure,Restaurants,Fit for Foodies
+Leisure,Restaurants,Bagel
+Leisure,Restaurants,Bakery
+Leisure,Restaurants,Barbecue
+Leisure,Restaurants,Cafe
+Leisure,Restaurants,Caribbean
+Leisure,Restaurants,Chinese
+Leisure,Restaurants,Deli
+Leisure,Restaurants,Donut
+Leisure,Restaurants,Ethiopian
+Leisure,Restaurants,Family
+Leisure,Restaurants,Fast-Food
+Leisure,Restaurants,Fine Dining
+Leisure,Restaurants,French
+Leisure,Restaurants,Indian
+Leisure,Restaurants,Iranian
+Leisure,Restaurants,Italian
+Leisure,Restaurants,Japanese
+Leisure,Restaurants,Korean
+Leisure,Restaurants,Lebanese
+Leisure,Restaurants,Mexican
+Leisure,Restaurants,Persian
+Leisure,Restaurants,Pizza
+Leisure,Restaurants,Seafood
+Leisure,Restaurants,Sports
+Leisure,Restaurants,Thai
+Leisure,Restaurants,Vietnamese
+Leisure,Restaurants,West African
+Leisure,Spiritualities,Esotericism
+Leisure,Spiritualities,Karma
+Leisure,Spiritualities,Meditation
+Leisure,Spiritualities,Mysticism
+Leisure,Spiritualities,New Age
+Leisure,Spiritualities,Occultism
+Leisure,Spiritualities,Paranormal
+Leisure,Spiritualities,Philosophy
+Leisure,Spiritualities,Reincarnation
+Leisure,Spiritualities,Religion
+Leisure,Spiritualities,Subtle body
+Leisure,Sports,Aerobatics
+Leisure,Sports,Air Racing
+Leisure,Sports,Archery
+Leisure,Sports,Auto Racing
+Leisure,Sports,Badminton
+Leisure,Sports,Ballet
+Leisure,Sports,Ballooning
+Leisure,Sports,Ballroom Dancing
+Leisure,Sports,Base Jumping
+Leisure,Sports,Baseball
+Leisure,Sports,Basketball
+Leisure,Sports,Billiards (Pool)
+Leisure,Sports,Bowling
+Leisure,Sports,Boxing
+Leisure,Sports,Canoeing
+Leisure,Sports,Cheerleading
+Leisure,Sports,Climbing
+Leisure,Sports,Cricket
+Leisure,Sports,Cycling
+Leisure,Sports,Dancing
+Leisure,Sports,Dirt Jumping Cycling
+Leisure,Sports,Downhill Mountain Biking
+Leisure,Sports,Ensemble
+Leisure,Sports,Fishing
+Leisure,Sports,Flamenco
+Leisure,Sports,Football
+Leisure,Sports,Golf
+Leisure,Sports,Gymnastics
+Leisure,Sports,Hip-Hop
+Leisure,Sports,Hockey
+Leisure,Sports,Horse Racing
+Leisure,Sports,Hunting
+Leisure,Sports,Ice Climbing
+Leisure,Sports,Interpretive
+Leisure,Sports,Jazz Dancing
+Leisure,Sports,Judo
+Leisure,Sports,Juggling
+Leisure,Sports,Jujutsu
+Leisure,Sports,Karate
+Leisure,Sports,Kayaking
+Leisure,Sports,Kickboxing
+Leisure,Sports,Kite Flying
+Leisure,Sports,Laser Tag
+Leisure,Sports,Latin Dancing
+Leisure,Sports,Lyrical
+Leisure,Sports,Modern Dance
+Leisure,Sports,Motorboat Racing
+Leisure,Sports,Motorcycle Racing
+Leisure,Sports,Mountain Biking
+Leisure,Sports,Mountaineering
+Leisure,Sports,Musical Theater
+Leisure,Sports,Paintball
+Leisure,Sports,Parachuting
+Leisure,Sports,Parachuting
+Leisure,Sports,Paragliding
+Leisure,Sports,Parasailing
+Leisure,Sports,Pointe
+Leisure,Sports,Pole
+Leisure,Sports,Polo
+Leisure,Sports,Racquetball
+Leisure,Sports,Rafting
+Leisure,Sports,Rafting
+Leisure,Sports,Road Bicycle Racing
+Leisure,Sports,Rock Climbing
+Leisure,Sports,Rodeo
+Leisure,Sports,Rope Climbing
+Leisure,Sports,Rowing
+Leisure,Sports,Rugby
+Leisure,Sports,Running
+Leisure,Sports,Sailing
+Leisure,Sports,Salsa
+Leisure,Sports,Shooting Sports
+Leisure,Sports,Show Jumping
+Leisure,Sports,Skateboarding
+Leisure,Sports,Skiing
+Leisure,Sports,Sky Diving
+Leisure,Sports,Sky Surfing
+Leisure,Sports,Sled Sports
+Leisure,Sports,Slope Style Cycling
+Leisure,Sports,Snowboarding
+Leisure,Sports,Softball
+Leisure,Sports,Solo Modern
+Leisure,Sports,Squash
+Leisure,Sports,Steeplechase
+Leisure,Sports,Stickball
+Leisure,Sports,Street Loge
+Leisure,Sports,Sumo
+Leisure,Sports,Surfing
+Leisure,Sports,Swimming
+Leisure,Sports,Swing
+Leisure,Sports,Table Tennis
+Leisure,Sports,Taekwondo
+Leisure,Sports,Tap
+Leisure,Sports,T-Ball
+Leisure,Sports,Tennis
+Leisure,Sports,Track Cycling
+Leisure,Sports,Volleyball
+Leisure,Sports,Wakeboarding
+Leisure,Sports,Walking
+Leisure,Sports,Water Sports
+Leisure,Sports,Weightlifting / Power Lifting
+Leisure,Sports,Wiffle ball
+Leisure,Sports,Wing suit Flying
+Leisure,Sports,Wrestling
+Leisure,Sports,Yoga
+Leisure,Theatres,Comedic Play
+Leisure,Theatres,Dramatic Play
+Leisure,Theatres,Epic Theatre
+Leisure,Theatres,Experimental Theatre
+Leisure,Theatres,Fantasy Play
+Leisure,Theatres,Historical Theatre
+Leisure,Theatres,Improvisational Theatre
+Leisure,Theatres,Mainstream Theatre
+Leisure,Theatres,Meta-Theatre
+Leisure,Theatres,Morality Play
+Leisure,Theatres,Musical Play
+Leisure,Theatres,Pantomime
+Leisure,Theatres,Physical Theatre
+Leisure,Theatres,Political Theatre
+Leisure,Theatres,Popular Theatre
+Leisure,Theatres,Puppetry
+Leisure,Theatres,Radio Drama
+Leisure,Theatres,Rock Opera
+Leisure,Theatres,Theatre For Social Change
+Leisure,Theatres,Theatre Of The Absurd
+Leisure,Theatres,Tragedy Play
+Leisure,Theatres,Tragicomedy
+Leisure,Trips,Activities-Attractions
+Leisure,Trips,Adults Only
+Leisure,Trips,Adventure Travel
+Leisure,Trips,All Inclusive
+Leisure,Trips,Beach Trips
+Leisure,Trips,Boating Trips
+Leisure,Trips,Business Travel
+Leisure,Trips,Camping Trip
+Leisure,Trips,Canoeing And Kayaking
+Leisure,Trips,Christmas And New Year
+Leisure,Trips,City Breaks
+Leisure,Trips,Climbing Holidays 
+Leisure,Trips,Cruises
+Leisure,Trips,Cultural Trips 
+Leisure,Trips,Cycling Holidays 
+Leisure,Trips,Diving Trip
+Leisure,Trips,Ethical Holidays 
+Leisure,Trips,Extreme Sports Holidays 
+Leisure,Trips,Family Holidays 
+Leisure,Trips,Family  Travel
+Leisure,Trips,Ferry Travel 
+Leisure,Trips,Fishing Trip
+Leisure,Trips,Gay-Lesbian
+Leisure,Trips,Girlfriend Getaways
+Leisure,Trips,Golfing Trip
+Leisure,Trips,Group Travel
+Leisure,Trips,Heritage 
+Leisure,Trips,Honeymoons 
+Leisure,Trips,Horse Riding 
+Leisure,Trips,Luxury  Travel
+Leisure,Trips,Multi-Generational Travel
+Leisure,Trips,Rail Travel
+Leisure,Trips,Rest & Relaxation 
+Leisure,Trips,Road Trips 
+Leisure,Trips,Romantic Trips 
+Leisure,Trips,Safaris Trips
+Leisure,Trips,Sailing Trips 
+Leisure,Trips,Shopping Trips 
+Leisure,Trips,Short Breaks 
+Leisure,Trips,Skiing Travel
+Leisure,Trips,Snowboarding Trip
+Leisure,Trips,Spa Breaks 
+Leisure,Trips,Surfing Trip
+Leisure,Trips,Swimming Holidays 
+Leisure,Trips,Tennis Holidays 
+Leisure,Trips,Theme Travel
+Leisure,Trips,Walking Holidays 
+Leisure,Trips,Water Sports Holidays 
+Leisure,Trips,Wedding Travel
+Leisure,Trips,Weekend Breaks 
+Leisure,Trips,Wildlife Holidays 
