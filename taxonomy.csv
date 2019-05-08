@@ -77,7 +77,7 @@ Leisure,Fundraisers  ,Disabled
 Leisure,Fundraisers  ,Drug & Alcohol Abuse
 Leisure,Fundraisers  ,Environment
 Leisure,Fundraisers  ,Gun Control (Pro/Con)
-Leisure,Fundraisers  ,Health – General
+Leisure,Fundraisers  ,Health â€“ General
 Leisure,Fundraisers  ,Hispanic
 Leisure,Fundraisers  ,Homelessness & Housing
 Leisure,Fundraisers  ,Human Rights
@@ -95,7 +95,7 @@ Leisure,Fundraisers  ,Senior Citizens
 Leisure,Fundraisers  ,Terminally Or Chronically Ill
 Leisure,Fundraisers  ,Veterans & Military
 Leisure,Fundraisers  ,Women's Rights
-Leisure,Fundraisers  ,Youth – Residential Care
+Leisure,Fundraisers  ,Youth â€“ Residential Care
 Leisure,Fundraisers  ,Youth Development
 Leisure,Literary  ,Adventure Novel
 Leisure,Literary  ,Autobiography
@@ -175,6 +175,9 @@ Leisure,Receptions,Formal Parties
 Leisure,Receptions,Rehearsal Dinners
 Leisure,Receptions,Social Gathering
 Leisure,Receptions,Wedding Receptions
+Leisure,Restaurants,American
+Leisure,Restaurants,European
+Leisure,Restaurants,Asian
 Leisure,Restaurants,Outdoor Dining
 Leisure,Restaurants,Cuisine
 Leisure,Restaurants,Best Overall
@@ -367,7 +370,7 @@ Leisure,Trips,Diving Trip
 Leisure,Trips,Ethical Holidays 
 Leisure,Trips,Extreme Sports Holidays 
 Leisure,Trips,Family Holidays 
-Leisure,Trips,Family  Travel
+Leisure,Trips,FamilyÂ  Travel
 Leisure,Trips,Ferry Travel 
 Leisure,Trips,Fishing Trip
 Leisure,Trips,Gay-Lesbian
@@ -377,7 +380,7 @@ Leisure,Trips,Group Travel
 Leisure,Trips,Heritage 
 Leisure,Trips,Honeymoons 
 Leisure,Trips,Horse Riding 
-Leisure,Trips,Luxury  Travel
+Leisure,Trips,LuxuryÂ  Travel
 Leisure,Trips,Multi-Generational Travel
 Leisure,Trips,Rail Travel
 Leisure,Trips,Rest & Relaxation 
