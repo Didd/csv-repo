@@ -1,4 +1,4 @@
 Name,xFactor,yFactor
-Interest,Frequency,Likelyhood
+Interest,Priority,Preference
 Attitude,Perception,Impression
-Expectation,Priority,Preference
+Expectation,Frequency,Likelihood
