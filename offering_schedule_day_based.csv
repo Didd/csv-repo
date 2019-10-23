@@ -1,11 +1,472 @@
 Vendor,Offering,Location,Start Day,End Day,Start Time,End Time,Pricing From,Pricing To
-"1400 North at the Westin Washington, D.C. City Center","1400 North at the Westin Washington, D.C. City Center","1400 North at the Westin Washington, D.C. City Center (Downtown)",Monday,Friday,6.30,22.00,11,30
-"1400 North at the Westin Washington, D.C. City Center","1400 North at the Westin Washington, D.C. City Center","1400 North at the Westin Washington, D.C. City Center (Downtown)",Saturday,Sunday,7.30,23.00,11,30
-14K Restaurant & Lounge,14K Restaurant & Lounge,14K Restaurant & Lounge (Downtown),Monday,Friday,6.30,11.00,11,30
-15 ria,15 ria,15 ria (Logan Circle),Monday,Friday,6.30,11.00,11,30
-1905,1905,1905 (U Street Corridor),Monday,Friday,6.30,11.00,11,30
-1905,1905,1905 (U Street Corridor),Saturday,Sunday,7.30,21.00,11,30
-Acre 121,Acre 121,Acre 121 (Columbia Heights / Brightwood),Monday,Friday,6.30,11.00,11,30
-Barcode,Barcode,Barcode (Downtown),Monday,Friday,6.30,11.00,11,30
-Barcode,Barcode,Barcode (Downtown),Saturday,Sunday,7.30,22.00,11,30
-Clyde's of Georgetown,Clyde's of Georgetown,Clyde's of Georgetown (Georgetown),Monday,Friday,6.30,11.00,11,30
+"1400 North At The Westin Washington, D.C. City Center ","1400 North At The Westin Washington, D.C. City Center ","1400 North At The Westin Washington, D.C. City Center (Downtown)",Monday,Friday,6.3,22,11,30
+"1400 North At The Westin Washington, D.C. City Center ","1400 North At The Westin Washington, D.C. City Center ","1400 North At The Westin Washington, D.C. City Center (Downtown)",Saturday,Sunday,7.3,23,11,30
+14K Restaurant & Lounge ,14K Restaurant & Lounge ,14K Restaurant & Lounge (Downtown),Monday,Friday,6.3,11,11,30
+15 Ria ,15 Ria ,15 Ria (Logan Circle),Monday,Friday,6.3,11,11,30
+1905,1905,1905 (U Street Corridor),Monday,Friday,6.3,11,11,30
+1905,1905,1905 (U Street Corridor),Saturday,Sunday,7.3,21,11,30
+Acre 121 ,Acre 121 ,Acre 121 (Columbia Heights / Brightwood),Monday,Friday,6.3,11,11,30
+Barcode ,Barcode ,Barcode (Downtown),Monday,Friday,6.3,11,11,30
+Barcode ,Barcode ,Barcode (Downtown),Saturday,Sunday,7.3,22,11,30
+Clyde'S Of Georgetown ,Clyde'S Of Georgetown ,Clyde'S Of Georgetown (Georgetown),Monday,Friday,6.3,11,11,30
+Ultra ,Ultra ,Ultra (Lower East Side),Tuesday,Saturday,8.3,21,1,50
+Edward Rice ,Edward Rice ,Edward Rice (Watts),Tuesday,Sunday,6,15,1,100
+Mandu - K Street ,Mandu - K Street ,Mandu - K Street (Downtown),Sunday,Wednesday,7,18,1,130
+Stella Pizza & Ale ,Stella Pizza & Ale ,Stella Pizza & Ale (Georgetown),Saturday,Saturday,8,23.3,1,5
+Sei Restaurant & Lounge ,Sei Restaurant & Lounge ,Sei Restaurant & Lounge (Penn Quarter),Saturday,Sunday,9.3,22,1,26
+Mod Pizza ,Mod Pizza ,Mod Pizza (West Woodland),Monday,Sunday,6.3,22,1,59
+Mels Market ,Mels Market ,Mels Market (Downtown),Monday,Friday,7.3,23,1,35
+Roxy S ,Roxy S ,Roxy S (Meadowbrook),Monday,Thursday,6.3,11,5,69
+Mcdonald'S ,Mcdonald'S ,Mcdonald'S (Hollywood),Thursday,Tuesday,6.3,11,5,20
+1789 Restaurant ,1789 Restaurant ,1789 Restaurant (Georgetown),Thursday,Tuesday,6.3,11,5,69
+Red Chopstick ,Red Chopstick ,Red Chopstick (Westminster Triangle),Monday,Thursday,7.3,21,5,70
+Cesars ,Cesars ,Cesars (Lake View),Monday,Friday,6.3,11,5,150
+Pala ,Pala ,Pala (Lower East Side),Saturday,Sunday,6.3,11,5,500
+Coffee Bean And Tea Leaf ,Coffee Bean And Tea Leaf ,Coffee Bean And Tea Leaf (Crestview),Saturday,Friday,7.3,22,5,400
+Le Pain Quotidien ,Le Pain Quotidien ,Le Pain Quotidien (Soho),Friday,Friday,6.3,11,50,1000
+Billy Goats ,Billy Goats ,Billy Goats (Wrigleyville),Friday,Friday,8.3,21,50,1500
+Jack In The Box ,Jack In The Box ,Jack In The Box (Cheviot Hills),Tuesday,Sunday,6,15,50,250
+Salon De Cafe Focus ,Salon De Cafe Focus ,Salon De Cafe Focus (Downtown),Thursday,Friday,7,18,100,500
+Ricobenes Pizza ,Ricobenes Pizza ,Ricobenes Pizza (The Loop),Wednesday,Friday,8,23.3,100,750
+Taco Bell ,Taco Bell ,Taco Bell (West Woodland),Wednesday,Sunday,9.3,22,100,250
+Annapurna Fast Foods ,Annapurna Fast Foods ,Annapurna Fast Foods (West Rogers Park),Monday,Friday,6.3,22,100,250
+Ca Acorn Los Angeles ,Ca Acorn Los Angeles ,Ca Acorn Los Angeles (Central City),Saturday,Saturday,7.3,23,100,1000
+Perrys Deli ,Perrys Deli ,Perrys Deli (The Loop),Monday,Sunday,6.3,11,150,360
+Hama Sushi ,Hama Sushi ,Hama Sushi (Downtown),Saturday,Wednesday,6.3,11,150,490
+Kfc ,Kfc ,Kfc (Burnside),Monday,Saturday,6.3,11,11,30
+Ping Pong Dim Sum - Chinatown ,Ping Pong Dim Sum - Chinatown ,Ping Pong Dim Sum - Chinatown (Downtown),Monday,Sunday,7.3,21,30,300
+Mcdonald'S ,Mcdonald'S ,Mcdonald'S (Flatiron District),Monday,Sunday,6.3,11,50,300
+Cafe Soleil ,Cafe Soleil ,Cafe Soleil (Downtown),Saturday,Friday,6.3,11,13,30
+Asia Nine Bar And Lounge ,Asia Nine Bar And Lounge ,Asia Nine Bar And Lounge (Penn Quarter),Monday,Thursday,7.3,22,56,300
+Taqueria Los Comales ,Taqueria Los Comales ,Taqueria Los Comales (Little Village),Monday,Tuesday,6.3,11,58,300
+Cedar Restaurant ,Cedar Restaurant ,Cedar Restaurant (Penn Quarter),Saturday,Tuesday,8.3,21,65,300
+Subway Sandwiches ,Subway Sandwiches ,Subway Sandwiches (Haller Lake),Monday,Thursday,6,15,48,300
+Subway ,Subway ,Subway (Franklin Park),Tuesday,Friday,7,18,200,300
+Billy Gt Tvrn/Grllblly Gt Tvrn ,Billy Gt Tvrn/Grllblly Gt Tvrn ,Billy Gt Tvrn/Grllblly Gt Tvrn (Streeterville),Tuesday,Sunday,8,23.3,85,300
+Chartis ,Chartis ,Chartis (Financial District),Sunday,Friday,9.3,22,96,500
+Ellas Pizza ,Ellas Pizza ,Ellas Pizza (Penn Quarter),Saturday,Friday,6.3,22,6,100
+Firehouse Coffee ,Firehouse Coffee ,Firehouse Coffee (Ballard),Saturday,Friday,7.3,23,54,130
+Eisenberg Ben B ,Eisenberg Ben B ,Eisenberg Ben B (Downtown),Monday,Sunday,6.3,11,11,50
+Vim Thai Chinese Restaurant ,Vim Thai Chinese Restaurant ,Vim Thai Chinese Restaurant (Koreatown),Monday,Friday,6.3,11,11,26
+Aquavit ,Aquavit ,Aquavit (Midtown),Monday,Friday,6.3,11,11,59
+Great Wall ,Great Wall ,Great Wall (Russell Woods),Thursday,Sunday,7.3,21,11,35
+Roots Handmade Pizza ,Roots Handmade Pizza ,Roots Handmade Pizza (East Ukrainian Village),Thursday,Friday,6.3,11,11,69
+Quiznos Classic Subs ,Quiznos Classic Subs ,Quiznos Classic Subs (Central City),Monday,Saturday,6.3,11,11,20
+Mcdonald'S ,Mcdonald'S ,Mcdonald'S (Westchester),Monday,Sunday,7.3,22,11,69
+Asian Spice ,Asian Spice ,Asian Spice (Penn Quarter),Saturday,Wednesday,6.3,11,11,70
+Bombay Cafe ,Bombay Cafe ,Bombay Cafe (Sawtelle),Saturday,Saturday,8.3,21,11,150
+Burger King ,Burger King ,Burger King (Westchester),Friday,Sunday,6,15,11,500
+L A Video ,L A Video ,L A Video (Hollywood),Friday,Sunday,7,18,1,400
+Gino S East Of Chicago ,Gino S East Of Chicago ,Gino S East Of Chicago (West Loop Gate),Tuesday,Friday,8,23.3,1,1000
+Wendy Nichol ,Wendy Nichol ,Wendy Nichol (Soho),Thursday,Thursday,9.3,22,1,1500
+Lucky Boy Press ,Lucky Boy Press ,Lucky Boy Press (Battery Park),Wednesday,Tuesday,6.3,22,1,250
+Quiznos Subs ,Quiznos Subs ,Quiznos Subs (Noble Square),Wednesday,Tuesday,7.3,23,1,500
+La Grolla ,La Grolla ,La Grolla (Upper West Side),Monday,Thursday,6.3,11,1,750
+Saye At The Square ,Saye At The Square ,Saye At The Square (Greenwich Village),Monday,Friday,6.3,11,1,250
+Tommy'S Pizza ,Tommy'S Pizza ,Tommy'S Pizza (Financial District),Saturday,Sunday,6.3,11,5,250
+Errol Fervice ,Errol Fervice ,Errol Fervice (East English Village),Monday,Friday,7.3,21,5,1000
+Beacon Bar And Grill ,Beacon Bar And Grill ,Beacon Bar And Grill (Dupont Circle),Monday,Friday,6.3,11,5,360
+Bistro Bis ,Bistro Bis ,Bistro Bis (Capitol Hill),Monday,Friday,6.3,11,5,490
+Quiznos Subs ,Quiznos Subs ,Quiznos Subs (University District),Saturday,Sunday,7.3,22,5,30
+Villa Restaurant ,Villa Restaurant ,Villa Restaurant (Logan Circle),Monday,Friday,6.3,11,5,30
+Food Merchants Cafe And Market ,Food Merchants Cafe And Market ,Food Merchants Cafe And Market (Turtle Bay),Monday,Friday,8.3,21,5,30
+1905,1905,1905 (U Street Corridor),Saturday,Sunday,6,15,50,30
+Hair Cuttery ,Hair Cuttery ,Hair Cuttery (Gladstone Park),Monday,Friday,7,18,50,30
+Chipotle Mexican Grill ,Chipotle Mexican Grill ,Chipotle Mexican Grill (The Loop),Tuesday,Saturday,8,23.3,50,30
+Diversey Plaza Deli ,Diversey Plaza Deli ,Diversey Plaza Deli (Lake View East),Tuesday,Sunday,9.3,22,100,300
+Pronto Pizza Pasta ,Pronto Pizza Pasta ,Pronto Pizza Pasta (Magnolia),Sunday,Wednesday,6.3,22,100,300
+Jack N The Box ,Jack N The Box ,Jack N The Box (University District),Saturday,Saturday,7.3,23,100,300
+Mangez Avec Moi ,Mangez Avec Moi ,Mangez Avec Moi (Financial District),Saturday,Sunday,6.3,11,100,300
+Dairy Profit Weekly ,Dairy Profit Weekly ,Dairy Profit Weekly (East Village),Monday,Sunday,6.3,11,100,500
+Pizza Metro 2 ,Pizza Metro 2 ,Pizza Metro 2 (Noble Square),Monday,Friday,6.3,11,150,1000
+Subway ,Subway ,Subway (Industrial District),Monday,Thursday,7.3,21,150,180
+Tree House Social Club ,Tree House Social Club ,Tree House Social Club (Mid City West),Thursday,Tuesday,6.3,11,11,50
+Wendy'S ,Wendy'S ,Wendy'S (North Center),Thursday,Tuesday,6.3,11,30,266
+Liberty Cafe ,Liberty Cafe ,Liberty Cafe (Capitol Hill),Monday,Thursday,7.3,22,50,590
+Johnny Rockets International ,Johnny Rockets International ,Johnny Rockets International (Georgetown),Monday,,6.3,11,13,35
+Fenwick Keats Realty ,Fenwick Keats Realty ,Fenwick Keats Realty (Upper East Side),Saturday,Friday,8.3,21,56,69
+Aria Pizzeria & Bar ,Aria Pizzeria & Bar ,Aria Pizzeria & Bar (Downtown),Saturday,Sunday,6,15,58,200
+Circa Nghbrhood Grill Alehouse ,Circa Nghbrhood Grill Alehouse ,Circa Nghbrhood Grill Alehouse (Admiral),Friday,Friday,7,18,65,69
+Quiznos Subs ,Quiznos Subs ,Quiznos Subs (River North),Friday,Friday,8,23.3,48,70
+Dragon Boat ,Dragon Boat ,Dragon Boat (Belmont Central),Tuesday,Friday,9.3,22,200,1500
+Burrito Beach 7 Stcktaxex ,Burrito Beach 7 Stcktaxex ,Burrito Beach 7 Stcktaxex (Streeterville),Thursday,Sunday,6.3,22,85,500
+Uncle Julios Hacienda ,Uncle Julios Hacienda ,Uncle Julios Hacienda (Goose Island),Wednesday,Friday,7.3,23,96,400
+Jack In The Box ,Jack In The Box ,Jack In The Box (West Adams),Wednesday,Friday,6.3,11,6,1000
+Acre 121 ,Acre 121 ,Acre 121 (Columbia Heights / Brightwood),Monday,Sunday,6.3,11,54,1500
+Pettirosso ,Pettirosso ,Pettirosso (Capitol Hill),Saturday,Friday,6.3,11,11,250
+Brasserie Beck ,Brasserie Beck ,Brasserie Beck (Downtown),Monday,Saturday,7.3,21,11,500
+Miss Saigon ,Miss Saigon ,Miss Saigon (Georgetown),Saturday,Sunday,6.3,11,11,750
+Amor Cafe ,Amor Cafe ,Amor Cafe (Downtown),Monday,Wednesday,6.3,11,11,250
+Banana Leaves Asian Restaurant And Sushi Bar ,Banana Leaves Asian Restaurant And Sushi Bar ,Banana Leaves Asian Restaurant And Sushi Bar (Dupont Circle),Monday,Saturday,7.3,22,11,250
+Bella Ciao ,Bella Ciao ,Bella Ciao (Cedar Park),Monday,Sunday,6.3,11,11,1000
+Chez Billy ,Chez Billy ,Chez Billy (Petworth),Saturday,Sunday,8.3,21,11,360
+Brigdeport Coffeehouse ,Brigdeport Coffeehouse ,Brigdeport Coffeehouse (Mckinley Park),Monday,Friday,6,15,11,490
+Niko'S Mediterranean ,Niko'S Mediterranean ,Niko'S Mediterranean (Upper West Side),Monday,Thursday,7,18,11,30
+15 Ria ,15 Ria ,15 Ria (Logan Circle),Saturday,Tuesday,8,23.3,11,30
+Burger King ,Burger King ,Burger King (Central City),Monday,Tuesday,9.3,22,1,30
+Blueprint ,Blueprint ,Blueprint (Tribeca),Tuesday,Thursday,6.3,22,1,30
+Domino'S Pizza ,Domino'S Pizza ,Domino'S Pizza (Mid City),Tuesday,Friday,7.3,23,1,30
+Kfc ,Kfc ,Kfc (Ravendale),Sunday,Sunday,6.3,11,1,30
+Jack In The Box ,Jack In The Box ,Jack In The Box (Westlake),Saturday,Friday,6.3,11,1,30
+Loccitane ,Loccitane ,Loccitane (Carnegie Hill),Saturday,Friday,6.3,11,1,30
+Market Optmtrix Dctors Optometry ,Market Optmtrix Dctors Optometry ,Market Optmtrix Dctors Optometry (Mid City West),Monday,Friday,7.3,21,1,30
+Soho Cafe ,Soho Cafe ,Soho Cafe (Downtown),Monday,Sunday,6.3,11,5,30
+Bernies Tavern ,Bernies Tavern ,Bernies Tavern (Wrigleyville),Monday,Friday,6.3,11,5,50
+Tutta Bella ,Tutta Bella ,Tutta Bella (Columbia City),Thursday,Friday,7.3,22,5,100
+Salsa Caliente ,Salsa Caliente ,Salsa Caliente (Phinney Ridge),Thursday,Sunday,6.3,11,5,130
+Cafe Paradiso ,Cafe Paradiso ,Cafe Paradiso (Woodley Park),Monday,Friday,8.3,21,5,55
+Morton ,Morton ,Morton (River North),Monday,Saturday,6,15,5,26
+Subway ,Subway ,Subway (Tribeca),Saturday,Sunday,7,18,5,59
+Delaware Bay Risk Solutions ,Delaware Bay Risk Solutions ,Delaware Bay Risk Solutions (Financial District),Saturday,Wednesday,8,23.3,50,350
+Cashion'S Eat Place ,Cashion'S Eat Place ,Cashion'S Eat Place (Adams Morgan),Friday,Saturday,9.3,22,50,69
+Westcoast Hotels ,Westcoast Hotels ,Westcoast Hotels (Denny Triangle),Friday,Sunday,6.3,22,50,260
+"1400 North At The Westin Washington, D.C. City Center ","1400 North At The Westin Washington, D.C. City Center ","1400 North At The Westin Washington, D.C. City Center (Downtown)",Tuesday,Sunday,7.3,23,100,699
+Kfc ,Kfc ,Kfc (Cheviot Hills),Thursday,Friday,6.3,11,100,700
+Asia Society ,Asia Society ,Asia Society (Bedford Stuyvesant),Wednesday,Thursday,6.3,11,100,150
+Domino'S Pizza ,Domino'S Pizza ,Domino'S Pizza (South Los Angeles),Wednesday,Tuesday,6.3,11,100,500
+Tokyo Kaikan Restaurant ,Tokyo Kaikan Restaurant ,Tokyo Kaikan Restaurant (Downtown),Monday,Tuesday,7.3,21,100,400
+Jury'S ,Jury'S ,Jury'S (North Center),Monday,Thursday,6.3,11,150,1000
+Subway ,Subway ,Subway (Crenshaw),Saturday,Friday,6.3,11,150,1500
+Cafe Du Parc ,Cafe Du Parc ,Cafe Du Parc (Downtown),Monday,Sunday,7.3,22,11,250
+Deville ,Deville ,Deville (Lake View East),Monday,Friday,6.3,11,30,500
+Clyde'S Of Chevy Chase ,Clyde'S Of Chevy Chase ,Clyde'S Of Chevy Chase (Friendship Heights),Monday,Friday,8.3,21,50,750
+True North Roasting House ,True North Roasting House ,True North Roasting House (West Woodland),Saturday,Friday,6,15,13,250
+Adour At St. Regis Washington Dc ,Adour At St. Regis Washington Dc ,Adour At St. Regis Washington Dc (Downtown),Monday,Sunday,7,18,56,250
+Bistro D'Oc ,Bistro D'Oc ,Bistro D'Oc (Downtown),Monday,Friday,8,23.3,58,1000
+Scotty Simpsons Fish & Chips ,Scotty Simpsons Fish & Chips ,Scotty Simpsons Fish & Chips (Brightmoor),Saturday,Friday,9.3,22,65,360
+Cafe Dupont ,Cafe Dupont ,Cafe Dupont (Dupont Circle),Monday,Sunday,6.3,22,48,490
+The Edison ,The Edison ,The Edison (San Pedro),Tuesday,Friday,7.3,23,200,300
+Alamode ,Alamode ,Alamode (Downtown),Tuesday,Saturday,6.3,11,85,300
+Specialtys Cafe & Bakery ,Specialtys Cafe & Bakery ,Specialtys Cafe & Bakery (Downtown),Sunday,Sunday,6.3,11,96,300
+A New York Pizza Place ,A New York Pizza Place ,A New York Pizza Place (Maple Leaf),Saturday,Wednesday,6.3,11,6,300
+Longines Realty ,Longines Realty ,Longines Realty (Williamsburg),Saturday,Saturday,7.3,21,54,300
+Cafe Des Artistes ,Cafe Des Artistes ,Cafe Des Artistes (Hollywood),Monday,Sunday,6.3,11,11,30
+Armand'S Chicago Pizzeria ,Armand'S Chicago Pizzeria ,Armand'S Chicago Pizzeria (North Cleveland Park),Monday,Sunday,6.3,11,11,30
+Burger King ,Burger King ,Burger King (Palms),Monday,Friday,7.3,22,11,30
+Little Caesars ,Little Caesars ,Little Caesars (Downtown),Thursday,Thursday,6.3,11,11,30
+Thai Bowl ,Thai Bowl ,Thai Bowl (University Village - Little Italy),Thursday,Tuesday,8.3,21,11,30
+Innovative Dining ,Innovative Dining ,Innovative Dining (Mid City West),Monday,Tuesday,6,15,11,50
+China Wok ,China Wok ,China Wok (East Village),Monday,Thursday,7,18,11,100
+701 Restaurant ,701 Restaurant ,701 Restaurant (Penn Quarter),Saturday,Friday,8,23.3,11,130
+Wendy D Kamaikosolano ,Wendy D Kamaikosolano ,Wendy D Kamaikosolano (Upper West Side),Saturday,Sunday,9.3,22,11,5
+Fine Grind Too ,Fine Grind Too ,Fine Grind Too (Boulevard Park),Friday,Friday,6.3,22,11,26
+Bistro Francais ,Bistro Francais ,Bistro Francais (Georgetown),Friday,Friday,7.3,23,1,59
+Yamashiro Restaurant ,Yamashiro Restaurant ,Yamashiro Restaurant (Hollywood Hills),Tuesday,Friday,6.3,11,1,35
+Fujimar Restaurant & Sushi Lounge ,Fujimar Restaurant & Sushi Lounge ,Fujimar Restaurant & Sushi Lounge (Downtown),Thursday,Sunday,6.3,11,1,69
+Housing Works ,Housing Works ,Housing Works (Soho),Wednesday,Friday,6.3,11,1,20
+Todo Wraps ,Todo Wraps ,Todo Wraps (First Hill),Wednesday,Friday,7.3,21,1,69
+Kfc ,Kfc ,Kfc (Hillwood),Monday,Sunday,6.3,11,1,70
+Coffee House Cona ,Coffee House Cona ,Coffee House Cona (Mid Wilshire),Saturday,Friday,6.3,11,1,150
+Village Pizzeria ,Village Pizzeria ,Village Pizzeria (Mid Wilshire),Monday,Saturday,7.3,22,5,500
+Mcdonald'S Restaurants ,Mcdonald'S Restaurants ,Mcdonald'S Restaurants (South Los Angeles),Saturday,Sunday,6.3,11,5,400
+Brownies Cafe ,Brownies Cafe ,Brownies Cafe (Morningside Heights),Monday,Wednesday,8.3,21,5,1000
+Carmine'S Restaurant - Dc ,Carmine'S Restaurant - Dc ,Carmine'S Restaurant - Dc (Penn Quarter),Monday,Saturday,6,15,5,1500
+Chica Luna Productions ,Chica Luna Productions ,Chica Luna Productions (East Harlem),Monday,Sunday,7,18,5,250
+"King County, Washington ","King County, Washington ","King County, Washington (Georgetown)",Saturday,Sunday,8,23.3,5,500
+Trinity Church ,Trinity Church ,Trinity Church (Financial District),Monday,Friday,9.3,22,5,750
+Taco Time ,Taco Time ,Taco Time (Fairmount Park),Monday,Thursday,6.3,22,50,250
+Community Deli Grocery ,Community Deli Grocery ,Community Deli Grocery (East Harlem),Saturday,Tuesday,7.3,23,50,250
+Cafe Of India ,Cafe Of India ,Cafe Of India (Friendship Heights),Monday,Tuesday,6.3,11,50,1000
+Wendy'S ,Wendy'S ,Wendy'S (Ravenswood),Tuesday,Thursday,6.3,11,100,360
+Roger Beck Photography ,Roger Beck Photography ,Roger Beck Photography (West Town),Tuesday,Friday,6.3,11,100,490
+Zeeks Pizza ,Zeeks Pizza ,Zeeks Pizza (West Queen Anne),Sunday,Sunday,7.3,21,100,300
+Caesars Palace ,Caesars Palace ,Caesars Palace (Upper West Side),Saturday,Friday,6.3,11,100,300
+Café Milano ,Café Milano ,Café Milano (Georgetown),Saturday,Friday,6.3,11,100,300
+Jack'S Hamburgers ,Jack'S Hamburgers ,Jack'S Hamburgers (Garment District),Monday,Friday,7.3,22,150,300
+Bistro Bistro ,Bistro Bistro ,Bistro Bistro (Dupont Circle),Monday,Sunday,6.3,11,150,300
+14K Restaurant & Lounge ,14K Restaurant & Lounge ,14K Restaurant & Lounge (Downtown),Monday,Friday,8.3,21,11,30
+Sunrise Hitek Service ,Sunrise Hitek Service ,Sunrise Hitek Service (Old Irving Park),Thursday,Friday,6,15,30,30
+Birch And Barley ,Birch And Barley ,Birch And Barley (Logan Circle),Thursday,Sunday,7,18,50,30
+Avenue Cafe Bar And Grill - Holiday Inn Central ,Avenue Cafe Bar And Grill - Holiday Inn Central ,Avenue Cafe Bar And Grill - Holiday Inn Central (Logan Circle),Monday,Friday,8,23.3,13,30
+Chicagos Pizza ,Chicagos Pizza ,Chicagos Pizza (Lake View),Monday,Saturday,9.3,22,56,30
+Baja Fresh C Eye St ,Baja Fresh C Eye St ,Baja Fresh C Eye St (Downtown),Saturday,Sunday,6.3,22,58,50
+King Deli And Sundries ,King Deli And Sundries ,King Deli And Sundries (Pioneer Square),Saturday,Wednesday,7.3,11,65,100
+Aaa  ,Aaa  ,Aaa (American Automobile Association) (The Loop),Friday,Saturday,6.3,21,48,130
+Happy Jade House ,Happy Jade House ,Happy Jade House (Washington Heights),Friday,Sunday,6.3,15,200,555
+Tabo Bell Restaurants ,Tabo Bell Restaurants ,Tabo Bell Restaurants (Mid City),Tuesday,Sunday,6.3,18,85,256
+Jim Lewis ,Jim Lewis ,Jim Lewis (Greenwich Village),Thursday,Friday,7.3,23.3,96,559
+Starbucks Coffee ,Starbucks Coffee ,Starbucks Coffee (Mid City),Wednesday,Thursday,6.3,22,6,35
+The Caucus Room Brasserie ,The Caucus Room Brasserie ,The Caucus Room Brasserie (Georgetown),Wednesday,Tuesday,6.3,22,54,69
+Jenny Njuyen ,Jenny Njuyen ,Jenny Njuyen (West Village),Monday,Tuesday,7.3,23,11,20
+Koo Koo Roo ,Koo Koo Roo ,Koo Koo Roo (Mid Wilshire),Monday,Thursday,6.3,11,11,69
+Dirty Martini Dc ,Dirty Martini Dc ,Dirty Martini Dc (Dupont Circle),Saturday,Friday,8.3,11,11,70
+Wendy'S ,Wendy'S ,Wendy'S (West Chesterfield),Monday,Sunday,6,11,11,150
+Corner Bakery Cafe ,Corner Bakery Cafe ,Corner Bakery Cafe (West Loop Gate),Monday,Friday,7,21,11,500
+Chickies Beef & Sausage ,Chickies Beef & Sausage ,Chickies Beef & Sausage (Little Village),Monday,Friday,8,11,11,400
+Domino'S Pizza ,Domino'S Pizza ,Domino'S Pizza (Gatewood),Saturday,Friday,9.3,11,11,1000
+Pizza Hut ,Pizza Hut ,Pizza Hut (Gatewood),Monday,Sunday,6.3,22,11,1500
+Quiznos ,Quiznos ,Quiznos (South Los Angeles),Monday,Friday,7.3,11,11,250
+Arcadia Deli ,Arcadia Deli ,Arcadia Deli (Upper West Side),Saturday,Friday,6.3,21,11,500
+La Taqueria San Jose ,La Taqueria San Jose ,La Taqueria San Jose (Bridgeport),Monday,Sunday,6.3,15,1,750
+Market Place ,Market Place ,Market Place (Southwest Waterfront),Tuesday,Friday,6.3,18,1,250
+Wccc ,Wccc ,Wccc (Conner Creek Ind),Tuesday,Saturday,7.3,23.3,1,250
+Amato'S Pizzeria ,Amato'S Pizzeria ,Amato'S Pizzeria (Galewood),Sunday,Sunday,6.3,22,1,1000
+Buca Di Beppo - Dc ,Buca Di Beppo - Dc ,Buca Di Beppo - Dc (Dupont Circle),Saturday,Wednesday,6.3,22,1,360
+Paradiso Cafe ,Paradiso Cafe ,Paradiso Cafe (Sawtelle),Saturday,Saturday,7.3,23,1,490
+Fiddlehead Cafe ,Fiddlehead Cafe ,Fiddlehead Cafe (Ravenswood),Monday,Sunday,6.3,11,1,30
+Senate New York ,Senate New York ,Senate New York (Williamsburg),Monday,Sunday,8.3,11,5,30
+Cloud City Coffee ,Cloud City Coffee ,Cloud City Coffee (Maple Leaf),Monday,Friday,6,11,5,30
+Little Italy Pizza ,Little Italy Pizza ,Little Italy Pizza (Park Slope),Thursday,Thursday,7,21,5,30
+Pizza Hut ,Pizza Hut ,Pizza Hut (Westminster Triangle),Thursday,Tuesday,8,11,5,30
+John'S Pizzeria ,John'S Pizzeria ,John'S Pizzeria (Bushwick),Monday,Tuesday,9.3,11,5,30
+Taste Of India ,Taste Of India ,Taste Of India (University District),Monday,Thursday,6.3,22,5,30
+Mad Pizza # 104 ,Mad Pizza # 104 ,Mad Pizza # 104 (South Lake Union),Saturday,Friday,7.3,11,5,30
+Chens Garden Restaurant ,Chens Garden Restaurant ,Chens Garden Restaurant (Harlem),Saturday,Sunday,6.3,21,50,300
+Pizza Napoli ,Pizza Napoli ,Pizza Napoli (Westchester),Friday,Friday,6.3,15,50,300
+Bada Lounge ,Bada Lounge ,Bada Lounge (Industrial District),Friday,Friday,6.3,18,50,50
+American Grill ,American Grill ,American Grill (Downtown),Tuesday,Friday,7.3,23.3,100,100
+American Music World ,American Music World ,American Music World (The Loop),Thursday,Sunday,6.3,22,100,130
+Scotia Capital ,Scotia Capital ,Scotia Capital (Financial District),Wednesday,Friday,6.3,22,100,500
+O'Brien'S Restaurant & Bar ,O'Brien'S Restaurant & Bar ,O'Brien'S Restaurant & Bar (Old Town),Wednesday,Friday,7.3,23,100,260
+Murasaki ,Murasaki ,Murasaki (Tenleytown),Monday,Sunday,6.3,11,100,559
+Blt Steak Dc ,Blt Steak Dc ,Blt Steak Dc (Downtown),Saturday,Friday,8.3,11,150,350
+Mike'S Pizza ,Mike'S Pizza ,Mike'S Pizza (Upper East Side),Monday,Saturday,6,11,150,699
+El Gaucho ,El Gaucho ,El Gaucho (Downtown),Saturday,Sunday,7,21,11,20
+Avenue Cafe Bar And Grill-Holiday Inn Central ,Avenue Cafe Bar And Grill-Holiday Inn Central ,Avenue Cafe Bar And Grill-Holiday Inn Central (Logan Circle),Monday,Wednesday,8,11,30,69
+Pizza Hut ,Pizza Hut ,Pizza Hut (Southeast Los Angeles),Monday,Saturday,9.3,11,50,70
+Jimmy John ,Jimmy John ,Jimmy John (Streeterville),Monday,Sunday,6.3,22,13,150
+Pizza Hut ,Pizza Hut ,Pizza Hut (Sauganash),Saturday,Sunday,7.3,11,56,500
+Zengo - D.C. ,Zengo - D.C. ,Zengo - D.C. (Penn Quarter),Monday,Friday,6.3,21,58,400
+Burger King ,Burger King ,Burger King (Brighton Park),Monday,Thursday,6.3,15,65,1000
+Fried Rice Express ,Fried Rice Express ,Fried Rice Express (Union Ridge),Saturday,Tuesday,6.3,18,48,1500
+Thai-Ger Room Restaurant ,Thai-Ger Room Restaurant ,Thai-Ger Room Restaurant (University District),Monday,Tuesday,7.3,23.3,200,250
+Casa Di Pizza ,Casa Di Pizza ,Casa Di Pizza (Chinatown),Tuesday,Thursday,6.3,22,85,500
+La Belle Epoque ,La Belle Epoque ,La Belle Epoque (Greenwich Village),Tuesday,Friday,6.3,22,96,750
+Mcdonald'S ,Mcdonald'S ,Mcdonald'S (Southeast Los Angeles),Sunday,Sunday,7.3,11,6,250
+Quiznos ,Quiznos ,Quiznos (Sunnydale),Saturday,Friday,6.3,21,54,250
+Pizza Factory ,Pizza Factory ,Pizza Factory (Roxhill),Saturday,Friday,8.3,15,11,1000
+Big Mama'S & Papa'S Pizzeria ,Big Mama'S & Papa'S Pizzeria ,Big Mama'S & Papa'S Pizzeria (Downtown),Monday,Friday,6,18,11,360
+Boundary Road ,Boundary Road ,Boundary Road (H Street Corridor),Monday,Sunday,7,23.3,11,490
+All-Purpose Pizza & Ale ,All-Purpose Pizza & Ale ,All-Purpose Pizza & Ale (Leschi),Monday,Friday,8,22,11,30
+King Taco Restaurant Inc No 6 ,King Taco Restaurant Inc No 6 ,King Taco Restaurant Inc No 6 (Central City),Thursday,Friday,9.3,22,11,30
+Yak Zies Bar & Grill ,Yak Zies Bar & Grill ,Yak Zies Bar & Grill (Lake View East),Thursday,Sunday,6.3,23,11,30
+Crash Landing Pizza ,Crash Landing Pizza ,Crash Landing Pizza (Phinney Ridge),Monday,Friday,7.3,11,11,30
+Famous Original Ray'S Pizza ,Famous Original Ray'S Pizza ,Famous Original Ray'S Pizza (Tribeca),Monday,Saturday,6.3,11,11,30
+Petaks ,Petaks ,Petaks (Carnegie Hill),Saturday,Sunday,6.3,11,11,30
+Pizza Hut ,Pizza Hut ,Pizza Hut (South Los Angeles),Saturday,Wednesday,6.3,21,11,30
+Good To Go Food ,Good To Go Food ,Good To Go Food (Near West Side),Friday,Saturday,7.3,11,1,30
+Acadiana ,Acadiana ,Acadiana (Downtown),Friday,Sunday,6.3,11,1,30
+Ray Bonos Pizza ,Ray Bonos Pizza ,Ray Bonos Pizza (Upper East Side),Tuesday,Sunday,6.3,22,1,30
+Zentan ,Zentan ,Zentan (Downtown),Thursday,Friday,7.3,11,1,50
+Quiznos Classic Subs ,Quiznos Classic Subs ,Quiznos Classic Subs (Old Town),Wednesday,Thursday,6.3,21,1,100
+Mcdonald'S F Clear V ,Mcdonald'S F Clear V ,Mcdonald'S F Clear V (South Los Angeles),Wednesday,Tuesday,8.3,15,1,130
+Kfc ,Kfc ,Kfc (East Side),Monday,Tuesday,6,18,1,5
+Subway ,Subway ,Subway (Graceland West),Monday,Thursday,7,23.3,5,26
+Subway ,Subway ,Subway (Haller Lake),Saturday,Friday,8,22,5,59
+Burger King ,Burger King ,Burger King (Albany Park),Monday,Sunday,9.3,22,5,35
+Chef Geoff'S Downtown ,Chef Geoff'S Downtown ,Chef Geoff'S Downtown (Downtown),Monday,Friday,6.3,23,5,69
+Subway Sandwiches ,Subway Sandwiches ,Subway Sandwiches (Minor),Monday,Friday,7.3,11,5,20
+Art And Soul ,Art And Soul ,Art And Soul (Capitol Hill),Saturday,Friday,6.3,11,5,69
+White Castle ,White Castle ,White Castle (Gresham),Monday,Sunday,6.3,11,5,70
+Hana Grill ,Hana Grill ,Hana Grill (Cheviot Hills),Monday,Friday,6.3,21,50,150
+Cityzen ,Cityzen ,Cityzen (Downtown),Saturday,Friday,7.3,11,50,500
+Midnight Cafe ,Midnight Cafe ,Midnight Cafe (Little Italy),Monday,Sunday,6.3,11,50,400
+Cima ,Cima ,Cima (Tribeca),Tuesday,Friday,6.3,22,100,1000
+Morgan Stanley ,Morgan Stanley ,Morgan Stanley (Soho),Tuesday,Saturday,7.3,11,100,1500
+Barcode ,Barcode ,Barcode (Downtown),Sunday,Sunday,6.3,21,100,250
+Burger King ,Burger King ,Burger King (Pico-Robertson),Saturday,Wednesday,8.3,15,100,500
+Nectar ,Nectar ,Nectar (Fremont),Saturday,Saturday,6,18,100,750
+Ambar ,Ambar ,Ambar (Capitol Hill),Monday,Sunday,7,23.3,150,250
+Al Dente  ,Al Dente  ,Al Dente (Fka La Forchetta) (Friendship Heights),Monday,Sunday,8,22,150,250
+Mannys Coffee Shop & Deli ,Mannys Coffee Shop & Deli ,Mannys Coffee Shop & Deli (South Loop),Monday,Friday,9.3,22,11,1000
+Kushi Izakaya & Sushi ,Kushi Izakaya & Sushi ,Kushi Izakaya & Sushi (Downtown),Thursday,Thursday,6.3,23,30,360
+G & G Jefferson Restaurant ,G & G Jefferson Restaurant ,G & G Jefferson Restaurant (West Loop Gate),Thursday,Tuesday,7.3,11,50,490
+Meyerovich Gallery ,Meyerovich Gallery ,Meyerovich Gallery (Battery Park),Monday,Tuesday,6.3,11,13,30
+Kaz Sushi Bistro ,Kaz Sushi Bistro ,Kaz Sushi Bistro (Downtown),Monday,Thursday,6.3,11,56,300
+The Hamilton ,The Hamilton ,The Hamilton (Penn Quarter),Saturday,Friday,6.3,21,58,300
+Slices ,Slices ,Slices (Greenwood),Saturday,Sunday,7.3,11,65,300
+Tony'S Pizza ,Tony'S Pizza ,Tony'S Pizza (Washington Heights),Friday,Friday,6.3,11,48,300
+Rays Pizza ,Rays Pizza ,Rays Pizza (Tribeca),Friday,Friday,6.3,22,200,300
+Urth Caffe ,Urth Caffe ,Urth Caffe (Central City East),Tuesday,Friday,7.3,11,85,300
+Malaysia Kopitiam ,Malaysia Kopitiam ,Malaysia Kopitiam (Dupont Circle),Thursday,Sunday,6.3,21,96,300
+Village Theatre ,Village Theatre ,Village Theatre (Greenwich Village),Wednesday,Friday,8.3,15,6,30
+Taco Bell No 19346 ,Taco Bell No 19346 ,Taco Bell No 19346 (Genesee),Wednesday,Friday,6,18,54,300
+Witt'S ,Witt'S ,Witt'S (Lake View),Monday,Sunday,7,23.3,11,50
+Dunkin' Brands ,Dunkin' Brands ,Dunkin' Brands (Rosemoor),Saturday,Friday,8,22,11,100
+Charlie Palmer Steak - Dc ,Charlie Palmer Steak - Dc ,Charlie Palmer Steak - Dc (Capitol Hill),Monday,Saturday,9.3,22,11,130
+Wendy'S ,Wendy'S ,Wendy'S (Hollywood),Saturday,Sunday,6.3,11,11,55
+Bravo Pizza ,Bravo Pizza ,Bravo Pizza (Hermosa),Monday,Wednesday,7.3,21,11,26
+Oya Restaurant & Lounge ,Oya Restaurant & Lounge ,Oya Restaurant & Lounge (Downtown),Monday,Saturday,6.3,15,11,59
+Utopia Restaurant ,Utopia Restaurant ,Utopia Restaurant (Upper West Side),Monday,Sunday,6.3,18,11,35
+Subway 14651 Detroit ,Subway 14651 Detroit ,Subway 14651 Detroit (Nw Goldberg),Saturday,Sunday,6.3,23.3,11,69
+Jack In The Box ,Jack In The Box ,Jack In The Box (Southeast Los Angeles),Monday,Friday,7.3,22,11,20
+Subway ,Subway ,Subway (North Delridge),Monday,Thursday,6.3,22,11,69
+Kfc ,Kfc ,Kfc (Mckinley Park),Saturday,Tuesday,6.3,23,1,70
+Santa Fe Cafe ,Santa Fe Cafe ,Santa Fe Cafe (Phinney Ridge),Monday,Tuesday,7.3,11,1,150
+Pams Deli Delight ,Pams Deli Delight ,Pams Deli Delight (Downtown),Tuesday,Thursday,6.3,11,1,500
+Als Deli ,Als Deli ,Als Deli (Lower East Side),Tuesday,Friday,8.3,11,1,400
+Masa 14 ,Masa 14 ,Masa 14 (Logan Circle),Sunday,Sunday,6,21,1,1000
+Kfc ,Kfc ,Kfc (Victory Heights),Saturday,Friday,7,11,1,1500
+Mary'S Pizza Shack ,Mary'S Pizza Shack ,Mary'S Pizza Shack (Catholic University),Saturday,Friday,8,11,1,250
+World Wrapps ,World Wrapps ,World Wrapps (South Lake Union),Monday,Friday,9.3,22,5,500
+Bourbon Steak - Four Seasons Washington Dc ,Bourbon Steak - Four Seasons Washington Dc ,Bourbon Steak - Four Seasons Washington Dc (Georgetown),Monday,Sunday,6.3,11,5,750
+Pizza Hut ,Pizza Hut ,Pizza Hut (East English Village),Monday,Friday,7.3,21,5,250
+The Source ,The Source ,The Source (Downtown),Thursday,Friday,6.3,15,5,250
+Mark Kuller ,Mark Kuller ,Mark Kuller (Chinatown),Thursday,Sunday,6.3,18,5,1000
+Beekman Tower Suite Hotel ,Beekman Tower Suite Hotel ,Beekman Tower Suite Hotel (Turtle Bay),Monday,Friday,6.3,23.3,5,360
+Mandu - 18Th Street ,Mandu - 18Th Street ,Mandu - 18Th Street (Dupont Circle),Monday,Saturday,7.3,22,5,490
+Taix French Restaurant ,Taix French Restaurant ,Taix French Restaurant (Echo Park),Saturday,Sunday,6.3,22,50,300
+Bacci Pizzeria ,Bacci Pizzeria ,Bacci Pizzeria (Wrigleyville),Saturday,Wednesday,6.3,23,50,300
+Co Co. Sala ,Co Co. Sala ,Co Co. Sala (Penn Quarter),Friday,Saturday,7.3,11,50,300
+Elliot Bay Pizza ,Elliot Bay Pizza ,Elliot Bay Pizza (West Queen Anne),Friday,Sunday,6.3,11,100,300
+Subway Sandwiches ,Subway Sandwiches ,Subway Sandwiches (Pioneer Square),Tuesday,Sunday,8.3,11,100,300
+Hope Cyber Cafe ,Hope Cyber Cafe ,Hope Cyber Cafe (Crenshaw),Thursday,Friday,6,21,100,300
+Morettis ,Morettis ,Morettis (Near West Side),Wednesday,Thursday,7,11,100,300
+China Village Restaurant ,China Village Restaurant ,China Village Restaurant (Bryant),Wednesday,Tuesday,8,11,100,300
+L'Asso New York City ,L'Asso New York City ,L'Asso New York City (Little Italy),Monday,Tuesday,9.3,22,150,300
+Off The Rack Deli ,Off The Rack Deli ,Off The Rack Deli (Downtown),Monday,Thursday,6.3,11,150,300
+Spices Asian Restaurant ,Spices Asian Restaurant ,Spices Asian Restaurant (Cleveland Park),Saturday,Friday,7.3,21,11,50
+Sticky Rice ,Sticky Rice ,Sticky Rice (H Street Corridor),Monday,Sunday,6.3,15,30,100
+Burma ,Burma ,Burma (Penn Quarter),Monday,Friday,6.3,18,50,130
+Burger King ,Burger King ,Burger King (East Side),Monday,Friday,6.3,23.3,13,55
+Tullys Coffee ,Tullys Coffee ,Tullys Coffee (Downtown),Saturday,Friday,7.3,22,56,260
+Jias Restaurant ,Jias Restaurant ,Jias Restaurant (Park West),Monday,Sunday,6.3,22,58,59
+Palladium Equity Partners ,Palladium Equity Partners ,Palladium Equity Partners (Midtown),Monday,Friday,6.3,23,65,325
+Nancy Behrman Communications ,Nancy Behrman Communications ,Nancy Behrman Communications (Midtown),Saturday,Friday,7.3,11,48,639
+Shiros ,Shiros ,Shiros (Belltown),Monday,Sunday,6.3,11,200,400
+Broadway Station ,Broadway Station ,Broadway Station (Downtown),Tuesday,Friday,8.3,11,85,659
+Broadway And 49Th St Ltd Partnership ,Broadway And 49Th St Ltd Partnership ,Broadway And 49Th St Ltd Partnership (Midtown),Tuesday,Saturday,6,21,96,760
+Florios Pizzeria & Restaurant ,Florios Pizzeria & Restaurant ,Florios Pizzeria & Restaurant (Little Italy),Sunday,Sunday,7,11,6,150
+Sims On Park ,Sims On Park ,Sims On Park (Murray Hill),Saturday,Wednesday,8,11,54,500
+Burger King ,Burger King ,Burger King (Mount Greenwood),Saturday,Saturday,9.3,22,11,400
+Bbdo Worldwide ,Bbdo Worldwide ,Bbdo Worldwide (Midtown),Monday,Sunday,6.3,11,11,1000
+Pizza Capri Of Hyde Park ,Pizza Capri Of Hyde Park ,Pizza Capri Of Hyde Park (Hyde Park),Monday,Sunday,7.3,21,11,1500
+Taco Bell ,Taco Bell ,Taco Bell (Highland Park),Monday,Friday,6.3,15,11,250
+Belga Cafe ,Belga Cafe ,Belga Cafe (Capitol Hill),Thursday,Thursday,6.3,18,11,500
+P S Bangkok Restaurant ,P S Bangkok Restaurant ,P S Bangkok Restaurant (Lake View),Thursday,Tuesday,6.3,23.3,11,750
+Chef Geoff'S New Mexico Ave. ,Chef Geoff'S New Mexico Ave. ,Chef Geoff'S New Mexico Ave. (Georgetown),Monday,Tuesday,7.3,22,11,250
+Taco Bell ,Taco Bell ,Taco Bell (The Loop),Monday,Thursday,6.3,22,11,250
+Bistrot Lepic & Wine Bar ,Bistrot Lepic & Wine Bar ,Bistrot Lepic & Wine Bar (Georgetown),Saturday,Friday,6.3,11,11,1000
+Bo Bryant ,Bo Bryant ,Bo Bryant (Dupont Circle),Saturday,Sunday,7.3,21,11,360
+Upper Crust ,Upper Crust ,Upper Crust (West Village),Friday,Friday,6.3,15,1,490
+Burger King ,Burger King ,Burger King (Hollywood),Friday,Friday,8.3,18,1,325
+Wonderburger Grill ,Wonderburger Grill ,Wonderburger Grill (Mount Greenwood),Tuesday,Friday,6,23.3,1,639
+Baluchi'S ,Baluchi'S ,Baluchi'S (Greenwich Village),Thursday,Sunday,7,22,1,400
+Article One - American Grill ,Article One - American Grill ,Article One - American Grill (Capitol Hill),Wednesday,Friday,8,22,1,659
+Young Chow Chen'S Asian Restaurant And Sushi Bar ,Young Chow Chen'S Asian Restaurant And Sushi Bar ,Young Chow Chen'S Asian Restaurant And Sushi Bar (Capitol Hill),Wednesday,Friday,9.3,23,1,760
+Cards Such ,Cards Such ,Cards Such (Tribeca),Monday,Sunday,6.3,11,1,150
+Java Jazz ,Java Jazz ,Java Jazz (Interbay),Saturday,Friday,7.3,11,5,500
+California Pizza Kitchen ,California Pizza Kitchen ,California Pizza Kitchen (Downtown),Monday,Saturday,6.3,11,5,400
+The Melting Pot ,The Melting Pot ,The Melting Pot (Uptown),Saturday,Sunday,6.3,21,5,1000
+Cafe Mundi ,Cafe Mundi ,Cafe Mundi (Sunnydale),Monday,Wednesday,6.3,11,5,1500
+Garrett Ripley'S ,Garrett Ripley'S ,Garrett Ripley'S (River North),Monday,Saturday,7.3,11,5,250
+Buzz Coffee I ,Buzz Coffee I ,Buzz Coffee I (Hollywood),Monday,Sunday,6.3,22,5,500
+Farmers Fishers Bakers Sushi ,Farmers Fishers Bakers Sushi ,Farmers Fishers Bakers Sushi (Georgetown),Saturday,Sunday,6.3,11,5,750
+Zeitgeist Kunst & Kaffee ,Zeitgeist Kunst & Kaffee ,Zeitgeist Kunst & Kaffee (Pioneer Square),Monday,Friday,7.3,21,50,250
+The Overlook Press ,The Overlook Press ,The Overlook Press (Soho),Monday,Thursday,6.3,15,50,250
+Taco Bell ,Taco Bell ,Taco Bell (Hollywood),Saturday,Tuesday,8.3,18,50,1000
+Ek Of New York ,Ek Of New York ,Ek Of New York (Greenwich Village),Monday,Tuesday,6,23.3,100,360
+Agora ,Agora ,Agora (Dupont Circle),Tuesday,Thursday,7,22,100,490
+Globe Pub ,Globe Pub ,Globe Pub (North Center),Tuesday,Friday,8,22,100,325
+White Castle ,White Castle ,White Castle (East Garfield Park),Sunday,Sunday,9.3,23,100,639
+Cafe Beyond ,Cafe Beyond ,Cafe Beyond (Flatiron District),Saturday,Friday,6.3,11,100,400
+Clyde'S Of Gallery Place ,Clyde'S Of Gallery Place ,Clyde'S Of Gallery Place (Downtown),Saturday,Friday,7.3,11,150,659
+Steve Smith ,Steve Smith ,Steve Smith (Springwells),Monday,Friday,6.3,11,150,760
+Dans Deli ,Dans Deli ,Dans Deli (Downtown),Monday,Sunday,6.3,21,11,150
+Jean-Luc ,Jean-Luc ,Jean-Luc (Upper West Side),Monday,Friday,6.3,11,30,500
+Lenny'S ,Lenny'S ,Lenny'S (Upper West Side),Thursday,Friday,7.3,11,50,400
+B. Smith'S ,B. Smith'S ,B. Smith'S (Capitol Hill),Thursday,Sunday,6.3,22,13,1000
+Tonys Mexican Restaurant ,Tonys Mexican Restaurant ,Tonys Mexican Restaurant (Downtown),Monday,Friday,6.3,11,56,1500
+Pizza Hut ,Pizza Hut ,Pizza Hut (Chicago Lawn),Monday,Saturday,7.3,21,58,250
+Hannan House Cafe ,Hannan House Cafe ,Hannan House Cafe (Midtown),Saturday,Sunday,6.3,15,65,500
+Carls Jr ,Carls Jr ,Carls Jr (Koreatown),Saturday,Wednesday,8.3,18,48,750
+French Roast ,French Roast ,French Roast (Upper West Side),Friday,Saturday,6,23.3,200,250
+Baluchi'S ,Baluchi'S ,Baluchi'S (Soho),Friday,Sunday,7,22,85,250
+Wendy'S ,Wendy'S ,Wendy'S (Oriole Park),Tuesday,Sunday,8,22,96,1000
+Potbelly Sandwich Shop ,Potbelly Sandwich Shop ,Potbelly Sandwich Shop (Denny Triangle),Thursday,Friday,9.3,23,6,360
+Blue Duck Tavern ,Blue Duck Tavern ,Blue Duck Tavern (West End),Wednesday,Thursday,6.3,11,54,490
+Spoon Thai Restaurant ,Spoon Thai Restaurant ,Spoon Thai Restaurant (Ravenswood),Wednesday,Tuesday,7.3,11,11,325
+Mcdonald'S ,Mcdonald'S ,Mcdonald'S (University Park),Monday,Tuesday,6.3,11,11,639
+Mcdonald 4484 Dunham ,Mcdonald 4484 Dunham ,Mcdonald 4484 Dunham (Garment District),Monday,Thursday,6.3,21,11,400
+Romios Pizza And Pasta ,Romios Pizza And Pasta ,Romios Pizza And Pasta (Portage Bay),Saturday,Friday,6.3,11,11,659
+Brainerd Hardwoods ,Brainerd Hardwoods ,Brainerd Hardwoods (Montclare),Monday,Sunday,7.3,11,11,760
+William Edwards ,William Edwards ,William Edwards (Noma),Monday,Friday,6.3,22,11,150
+Olivia Blanchflower ,Olivia Blanchflower ,Olivia Blanchflower (Soho),Monday,Friday,6.3,11,11,500
+Domino'S Pizza ,Domino'S Pizza ,Domino'S Pizza (University Park),Saturday,Friday,7.3,21,11,400
+Caffe Migliore ,Caffe Migliore ,Caffe Migliore (Downtown),Monday,Sunday,6.3,15,11,1000
+Louise'S Trattoria ,Louise'S Trattoria ,Louise'S Trattoria (Cheviot Hills),Monday,Friday,8.3,18,11,1500
+Murphys Red Hots ,Murphys Red Hots ,Murphys Red Hots (Lake View),Saturday,Friday,6,23.3,1,250
+Ancora ,Ancora ,Ancora (Foggy Bottom),Monday,Sunday,7,22,1,500
+On The Border Mexican Grill ,On The Border Mexican Grill ,On The Border Mexican Grill (Westchester),Tuesday,Friday,8,22,1,750
+Sushi Ko - Glover Park ,Sushi Ko - Glover Park ,Sushi Ko - Glover Park (Glover Park),Tuesday,Saturday,9.3,11,1,250
+Kay Kay Chinese Food ,Kay Kay Chinese Food ,Kay Kay Chinese Food (Crenshaw),Sunday,Sunday,6.3,21,1,250
+Olympia Entertainment ,Olympia Entertainment ,Olympia Entertainment (Downtown),Saturday,Wednesday,7.3,15,1,1000
+Taco Bell ,Taco Bell ,Taco Bell (Sunnydale),Saturday,Saturday,6.3,18,1,360
+Bobby Van'S Grill - New York Ave. ,Bobby Van'S Grill - New York Ave. ,Bobby Van'S Grill - New York Ave. (Downtown),Monday,Sunday,6.3,23.3,5,490
+Grotto ,Grotto ,Grotto (Lower East Side),Monday,Sunday,6.3,22,5,325
+Bier Baron Restaurant & Tavern ,Bier Baron Restaurant & Tavern ,Bier Baron Restaurant & Tavern (Dupont Circle),Monday,Friday,7.3,22,5,639
+Burger King ,Burger King ,Burger King (Eagle Rock),Thursday,Thursday,6.3,23,5,400
+Ldd Espresso ,Ldd Espresso ,Ldd Espresso (Downtown),Thursday,Tuesday,6.3,11,5,659
+Sorellas Ristorante & Pizzeria ,Sorellas Ristorante & Pizzeria ,Sorellas Ristorante & Pizzeria (Madison Park),Monday,Tuesday,7.3,11,5,760
+Birla Vxl Limited ,Birla Vxl Limited ,Birla Vxl Limited (Midtown),Monday,Thursday,6.3,11,5,150
+Mr Coffee House ,Mr Coffee House ,Mr Coffee House (Mid Wilshire),Saturday,Friday,8.3,21,50,500
+Domino'S Pizza ,Domino'S Pizza ,Domino'S Pizza (Downtown),Saturday,Sunday,6,11,50,400
+First Slice ,First Slice ,First Slice (Ravenswood),Friday,Friday,7,11,50,1000
+Lane Cafe ,Lane Cafe ,Lane Cafe (Financial District),Friday,Friday,8,22,100,1500
+Domino'S Pizza ,Domino'S Pizza ,Domino'S Pizza (Lake View),Tuesday,Friday,9.3,11,100,250
+Subway ,Subway ,Subway (Lake View East),Thursday,Sunday,6.3,21,100,500
+Joey Buona ,Joey Buona ,Joey Buona (Streeterville),Wednesday,Friday,7.3,15,100,750
+Mcdonald'S ,Mcdonald'S ,Mcdonald'S (Hamilton Heights),Wednesday,Friday,6.3,18,100,250
+Common Ground ,Common Ground ,Common Ground (Pioneer Square),Monday,Sunday,6.3,23.3,150,250
+Colin Yeo ,Colin Yeo ,Colin Yeo (Little Italy),Saturday,Friday,6.3,22,150,1000
+Pioneer Chicken ,Pioneer Chicken ,Pioneer Chicken (Mid City),Monday,Saturday,7.3,22,11,360
+Shaw And Leach ,Shaw And Leach ,Shaw And Leach (Flatiron District),Saturday,Sunday,6.3,23,30,490
+Cafe Roma ,Cafe Roma ,Cafe Roma (Kingman Park),Monday,Wednesday,6.3,11,50,325
+Pizza Metro ,Pizza Metro ,Pizza Metro (East Ukrainian Village),Monday,Saturday,7.3,11,13,639
+Jaeger Mary ,Jaeger Mary ,Jaeger Mary (Little Italy),Monday,Sunday,6.3,11,56,400
+Acqua Al 2 ,Acqua Al 2 ,Acqua Al 2 (Capitol Hill),Saturday,Sunday,8.3,21,58,659
+M.O.S. Networks ,M.O.S. Networks ,M.O.S. Networks (Washington Heights),Monday,Friday,6,11,65,760
+Bacalski Byrne Koska Ottoson ,Bacalski Byrne Koska Ottoson ,Bacalski Byrne Koska Ottoson (Downtown),Monday,Thursday,7,11,48,150
+Pizza Hut ,Pizza Hut ,Pizza Hut (Mount Washington),Saturday,Tuesday,8,22,200,500
+Sbarro ,Sbarro ,Sbarro (Downtown),Monday,Tuesday,9.3,11,85,400
+Rezas Italian Cafe ,Rezas Italian Cafe ,Rezas Italian Cafe (Denny Triangle),Tuesday,Thursday,6.3,21,96,1000
+Bistro Bohem ,Bistro Bohem ,Bistro Bohem (U Street Corridor),Tuesday,Saturday,7.3,15,6,1500
+Avenue Grill ,Avenue Grill ,Avenue Grill (Downtown),Sunday,Monday,6.3,18,54,250
+Ping Pong Dim Sum - Dupont ,Ping Pong Dim Sum - Dupont ,Ping Pong Dim Sum - Dupont (Dupont Circle),Saturday,Monday,6.3,23.3,11,500
+Holiday Grill & Bar ,Holiday Grill & Bar ,Holiday Grill & Bar (West Town),Saturday,Friday,6.3,22,11,750
+Cafe Berlin ,Cafe Berlin ,Cafe Berlin (Capitol Hill),Monday,Friday,7.3,22,11,250
+Ceiba ,Ceiba ,Ceiba (Downtown),Monday,Friday,6.3,23,11,250
+Gensler ,Gensler ,Gensler (Midtown),Monday,Sunday,6.3,11,11,1000
+Bistro Bis ,Bistro Bis ,Bistro Bis (Downtown),Thursday,Friday,7.3,11,11,360
+Taco Bell ,Taco Bell ,Taco Bell (Warrendale),Thursday,Friday,6.3,11,11,490
+2100 Prime In The Fairfax Hotel ,2100 Prime In The Fairfax Hotel ,2100 Prime In The Fairfax Hotel (Dupont Circle),Monday,Sunday,8.3,21,11,325
+Taqueria Casa Del Pueblo ,Taqueria Casa Del Pueblo ,Taqueria Casa Del Pueblo (Pilsen),Monday,Friday,6,11,11,639
+El Trebol ,El Trebol ,El Trebol (Boyle Heights),Saturday,Saturday,7,11,11,400
+Jimmy Johns Gourmet Sandwich ,Jimmy Johns Gourmet Sandwich ,Jimmy Johns Gourmet Sandwich (Lake View),Saturday,Sunday,8,22,1,659
+Eleven Madison Park ,Eleven Madison Park ,Eleven Madison Park (Graniteville),Friday,Wednesday,9.3,11,1,760
+Louis Venezia Law Offices ,Louis Venezia Law Offices ,Louis Venezia Law Offices (Flatiron District),Friday,Saturday,6.3,21,1,150
+Chicago'S Pizza ,Chicago'S Pizza ,Chicago'S Pizza (Lake View),Tuesday,Sunday,7.3,15,1,500
+Ron Of Japan ,Ron Of Japan ,Ron Of Japan (Streeterville),Thursday,Sunday,6.3,18,1,400
+The Dancing Crab ,The Dancing Crab ,The Dancing Crab (Friendship Heights),Wednesday,Friday,6.3,23.3,1,1000
+Pizza Hut ,Pizza Hut ,Pizza Hut (Calumet Heights),Wednesday,Thursday,6.3,22,1,1500
+Carl'S Jr. ,Carl'S Jr. ,Carl'S Jr. (Arlington Heights),Monday,Tuesday,7.3,22,5,250
+Clyde'S Of Georgetown ,Clyde'S Of Georgetown ,Clyde'S Of Georgetown (Georgetown),Monday,Tuesday,6.3,11,5,500
+Bistro Cacao ,Bistro Cacao ,Bistro Cacao (Capitol Hill),Saturday,Thursday,6.3,21,5,750
+Pizza Hut ,Pizza Hut ,Pizza Hut (West Pullman),Monday,Saturday,7.3,15,5,250
+Wendy'S ,Wendy'S ,Wendy'S (North Austin),Monday,Monday,6.3,18,5,250
+Leonardos Restaurant ,Leonardos Restaurant ,Leonardos Restaurant (University Park),Monday,Monday,8.3,23.3,5,1000
+Taco Time ,Taco Time ,Taco Time (Atlantic),Saturday,Friday,6,22,5,360
+Jack In The Box ,Jack In The Box ,Jack In The Box (Hollywood),Monday,Friday,7,22,50,490
+Central Michel Richard ,Central Michel Richard ,Central Michel Richard (Penn Quarter),Monday,Friday,8,23,50,325
+Quiznos Subs ,Quiznos Subs ,Quiznos Subs (Old Town),Saturday,Sunday,9.3,11,50,639
+Pizza Hut ,Pizza Hut ,Pizza Hut (Pico-Union),Monday,Friday,6.3,11,100,400
+Capitol City Brewing Company - Downtown ,Capitol City Brewing Company - Downtown ,Capitol City Brewing Company - Downtown (Downtown),Tuesday,Friday,7.3,11,100,659
+Gaam ,Gaam ,Gaam (Koreatown),Tuesday,Sunday,6.3,21,100,760
+Burke'S Web Pub ,Burke'S Web Pub ,Burke'S Web Pub (Bucktown),Sunday,Friday,6.3,11,100,150
+Acacia Bistro ,Acacia Bistro ,Acacia Bistro (Van Ness),Saturday,Saturday,6.3,11,100,500
+Burger King ,Burger King ,Burger King (Westlake),Saturday,Sunday,7.3,22,150,400
+Quiznos Subs ,Quiznos Subs ,Quiznos Subs (Downtown),Monday,Wednesday,6.3,11,150,1000
+Mcdonald'S ,Mcdonald'S ,Mcdonald'S (South Los Angeles),Monday,Saturday,6.3,21,11,1500
+Pizza Time ,Pizza Time ,Pizza Time (Mount View),Monday,Sunday,7.3,15,30,250
+Del Taco ,Del Taco ,Del Taco (West Adams),Thursday,Sunday,6.3,18,50,500
+Del Taco ,Del Taco ,Del Taco (University Park),Thursday,Friday,8.3,23.3,13,750
+Carls Jr ,Carls Jr ,Carls Jr (University Park),Monday,Thursday,6,22,56,250
+Tesoro Trattoria ,Tesoro Trattoria ,Tesoro Trattoria (Downtown),Monday,Tuesday,7,22,58,250
+Ottomanelli Meat Market ,Ottomanelli Meat Market ,Ottomanelli Meat Market (Upper East Side),Saturday,Tuesday,8,23,65,1000
+Pizza Factory ,Pizza Factory ,Pizza Factory (Hollywood),Saturday,Thursday,9.3,11,48,360
+Sushi Taro ,Sushi Taro ,Sushi Taro (Dupont Circle),Friday,Saturday,6.3,11,200,490
+Arucola Osteria ,Arucola Osteria ,"Arucola Osteria (Chevy Chase, Dc)",Friday,Monday,7.3,11,85,250
+Ray'S Pizza ,Ray'S Pizza ,Ray'S Pizza (Upper West Side),Tuesday,Monday,6.3,21,96,300
+Olives ,Olives ,Olives (Downtown),Thursday,Wednesday,6.3,11,6,100
+Keste Pizzeria ,Keste Pizzeria ,Keste Pizzeria (Bushwick),Wednesday,Monday,6.3,11,54,150
+Circle Bistro ,Circle Bistro ,Circle Bistro (Foggy Bottom),Monday,Saturday,7.3,19,100,800

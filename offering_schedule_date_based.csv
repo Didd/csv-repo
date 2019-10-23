@@ -1,9 +1,1049 @@
 Vendor,Offering,Location,Date,Time,Price
-The Abyssinians Production,The Abyssinians,9.30 Club,6/5/2019,19.30,45
-The Aces Production,The Aces,Black Cat,6/6/2019,19.30,45
-Glen Adams Production,Glen Adams,DAR Constitution Hall,6/7/2019,19.30,45
-Admiral T Production,Admiral T,Warner Theatre,6/8/2019,19.30,45
-Yasus Afari Production,Yasus Afari,Verizon Center,6/9/2019,20.30,45
-African Brothers Production,African Brothers,Echostage,6/13/2019,20.30,45
-The Aggrovators Production,The Aggrovators,The Fillmore Silver Spring,6/21/2019,20.30,45
-Aisha Production,Aisha,iffy Lube Live,6/23/2019,20.30,45
+The Abyssinians Production,The Abyssinians,9.30 Club,6/5/2019,19.3,45
+The Aces Production,The Aces,Black Cat,6/6/2019,19.3,45
+Glen Adams Production,Glen Adams,Dar Constitution Hall,6/7/2019,19.3,45
+Admiral T Production,Admiral T,Warner Theatre,6/8/2019,19.3,45
+Yasus Afari Production,Yasus Afari,Verizon Center,6/9/2019,20.3,45
+African Brothers Production,African Brothers,Echostage,6/13/2019,20.3,45
+The Aggrovators Production,The Aggrovators,The Fillmore Silver Spring,6/21/2019,20.3,45
+Aisha Production,Aisha,Iffy Lube Live,6/23/2019,20.3,45
+Black Stone Cherry Production,Black Stone Cherry,9:30 Club,10/23/2019,1,50
+Blackberry Smoke Production,Blackberry Smoke,Black Cat,10/24/2019,1.15,50
+Blackfoot Production,Blackfoot,Dar Constitution Hall,10/25/2019,1.3,50
+Blackmore'S Night Production,Blackmore'S Night,The George Washington University Lisner Auditorium,10/26/2019,1.45,50
+Blackout Beach Production,Blackout Beach,Verizon Center,10/27/2019,2,50
+Blanc Faces Production,Blanc Faces,Dar Constitution Hall,10/28/2019,2.15,50
+Blasted Mechanism Production,Blasted Mechanism,The Hamilton,10/29/2019,2.3,50
+The Abyssinians Production,The Abyssinians,Dc9,10/30/2019,2.45,50
+The Aces Production,The Aces,Red Palace,10/31/2019,3,50
+Glen Adams Production,Glen Adams,Warner Theatre,11/1/2019,3.15,50
+Admiral T Production,Admiral T,Wolf Trap,11/2/2019,3.3,65
+Yasus Afari Production,Yasus Afari,Lincoln Theatre,11/3/2019,3.45,65
+African Brothers Production,African Brothers,Merriweather Post Pavilion,11/4/2019,4,65
+The Aggrovator Production,The Aggrovator,The Howard Theater,11/5/2019,4.15,65
+Aisha Production,Aisha,Bohemian Caverns,11/6/2019,4.3,65
+Bobby Aitken Production,Bobby Aitken,Blues Alley,11/7/2019,4.45,65
+Laurel Aitken Production,Laurel Aitken,U Street Music Hall,11/8/2019,5,65
+Alaine Production,Alaine,Rock & Roll Hotel,11/9/2019,5.15,65
+Alborosie Production,Alborosie,Eighteenth Street Lounge,11/10/2019,5.3,65
+Dennis Alcapone Production,Dennis Alcapone,Iffy Lube Live,11/11/2019,5.45,65
+Alozade Production,Alozade,Black Cat,11/12/2019,6,65
+Alpha & Omega Production,Alpha & Omega,The Birchmere,11/13/2019,6.15,65
+Roland Alphonso Production,Roland Alphonso,9:30 Club,11/14/2019,6.3,65
+Althea & Donna Production,Althea & Donna,The Kennedy Center,11/15/2019,6.45,65
+Al Anderson Production,Al Anderson,Echostage,11/16/2019,7,65
+Lynford Anderson Aka 'Andy Capp' Production,Lynford Anderson Aka 'Andy Capp',The Fillmore Silver Spring,11/17/2019,7.15,100
+Bob Andy Production,Bob Andy,The George Washington University Lisner Auditorium,11/18/2019,7.3,100
+Horace Andy Production,Horace Andy,Verizon Center,11/19/2019,7.45,100
+Mike Anthony Production,Mike Anthony,Dar Constitution Hall,11/20/2019,8,100
+Patrick Andy Production,Patrick Andy,The Hamilton,11/21/2019,8.15,100
+Anthony B Production,Anthony B,Dc9,11/22/2019,8.3,100
+Apache Indian Production,Apache Indian,Red Palace,11/23/2019,8.45,100
+Marlon Asher Production,Marlon Asher,Warner Theatre,11/24/2019,9,100
+Aswad Production,Aswad,Wolf Trap,11/25/2019,9.15,100
+Audio Active Production,Audio Active,Lincoln Theatre,11/26/2019,9.3,100
+Baba Brooks Production,Baba Brooks,Merriweather Post Pavilion,11/27/2019,9.45,100
+Baby Cham Production,Baby Cham,The Howard Theater,11/28/2019,10,100
+Baby Wayne Production,Baby Wayne,Bohemian Caverns,11/29/2019,10.15,100
+Bad Brains Production,Bad Brains,Blues Alley,11/30/2019,10.3,100
+Admiral Bailey Production,Admiral Bailey,U Street Music Hall,10/23/2019,10.45,100
+Billy Flynn Production,Billy Flynn,Rock & Roll Hotel,10/24/2019,11,100
+Billy F. Gibbons Production,Billy F. Gibbons,Eighteenth Street Lounge,10/25/2019,11.15,100
+Steve Freund Production,Steve Freund,Iffy Lube Live,10/26/2019,11.3,100
+Tab Benoit Production,Tab Benoit,Black Cat,10/27/2019,11.45,100
+Darrell Nulisch Production,Darrell Nulisch,The Birchmere,10/28/2019,12,100
+Del Rey Production,Del Rey,9:30 Club,10/29/2019,12.15,45
+Larry Garner Production,Larry Garner,The Kennedy Center,10/30/2019,12.3,45
+Kenny Blues Boss Wayne Production,Kenny Blues Boss Wayne,Echostage,10/31/2019,12.45,45
+Johnny Drummer Production,Johnny Drummer,The Fillmore Silver Spring,11/1/2019,13,45
+Hans Theessink Production,Hans Theessink,The George Washington University Lisner Auditorium,11/2/2019,13.15,45
+Kenny Wayne Shepherd Production,Kenny Wayne Shepherd,Verizon Center,11/3/2019,13.3,45
+Lady Bianca Production,Lady Bianca,Dar Constitution Hall,11/4/2019,13.45,45
+Robben Ford Production,Robben Ford,The Hamilton,11/5/2019,14,45
+Joe Bonamassa Production,Joe Bonamassa,Dc9,11/6/2019,14.15,50
+John Mayer Production,John Mayer,Red Palace,11/7/2019,14.3,50
+Walter Trout Production,Walter Trout,Warner Theatre,11/8/2019,14.45,50
+Steve James Production,Steve James,Wolf Trap,11/9/2019,15,50
+Alvin Lee Production,Alvin Lee,Lincoln Theatre,11/10/2019,15.15,50
+Rusty Zinn Production,Rusty Zinn,Merriweather Post Pavilion,11/11/2019,15.3,50
+Carl Weathersby Production,Carl Weathersby,The Howard Theater,11/12/2019,15.45,50
+Angela Strehli Production,Angela Strehli,Bohemian Caverns,11/13/2019,16,50
+John P. Hammond Production,John P. Hammond,Blues Alley,11/14/2019,16.15,50
+James Hunter Production,James Hunter,U Street Music Hall,11/15/2019,16.3,50
+Ernie Hawkins Production,Ernie Hawkins,Rock & Roll Hotel,11/16/2019,16.45,65
+Bob Dylan Production,Bob Dylan,Eighteenth Street Lounge,11/17/2019,17,65
+Joe Louis Walker Production,Joe Louis Walker,Iffy Lube Live,11/18/2019,17.15,65
+Christian Dozzler Production,Christian Dozzler,Black Cat,11/19/2019,17.3,65
+George Thorogood Production,George Thorogood,The Birchmere,11/20/2019,17.45,65
+Otis Rush Production,Otis Rush,9:30 Club,11/21/2019,18,65
+Boo Boo Davis Production,Boo Boo Davis,The Kennedy Center,11/22/2019,18.15,65
+Kenny Brown Production,Kenny Brown,Echostage,11/23/2019,18.3,65
+Roy Book Binder Production,Roy Book Binder,The Fillmore Silver Spring,11/24/2019,18.45,65
+Ronnie Earl Production,Ronnie Earl,The George Washington University Lisner Auditorium,11/25/2019,19,65
+Dave Peabody Production,Dave Peabody,Verizon Center,11/26/2019,19.15,65
+Derek Trucks Production,Derek Trucks,Dar Constitution Hall,11/27/2019,19.3,65
+Deanna Bogart Production,Deanna Bogart,The Hamilton,11/28/2019,19.45,65
+Paul Lamb Production,Paul Lamb,Dc9,11/29/2019,20,65
+Dave Specter Production,Dave Specter,Red Palace,11/30/2019,20.15,65
+Nuno Mindelis Production,Nuno Mindelis,Warner Theatre,10/23/2019,20.3,100
+Buddy Guy Production,Buddy Guy,Wolf Trap,10/24/2019,20.45,100
+Susan Tedeschi Production,Susan Tedeschi,Lincoln Theatre,10/25/2019,21,100
+The White Stripes Production,The White Stripes,Merriweather Post Pavilion,10/26/2019,21.15,100
+Axel Zwingenberger Production,Axel Zwingenberger,The Howard Theater,10/27/2019,21.3,100
+Harry Manx Production,Harry Manx,Bohemian Caverns,10/28/2019,21.45,100
+Nick Moss Production,Nick Moss,Blues Alley,10/29/2019,22,100
+Robert Bradley'S Blackwater Surprise Production,Robert Bradley'S Blackwater Surprise,U Street Music Hall,10/30/2019,22.15,100
+Robert Cray Production,Robert Cray,Rock & Roll Hotel,10/31/2019,22.3,100
+Paul Geremia Production,Paul Geremia,Eighteenth Street Lounge,11/1/2019,22.45,100
+Johnny Yard Dog Jones Production,Johnny Yard Dog Jones,Iffy Lube Live,11/2/2019,23,100
+Harmonica Shah Production,Harmonica Shah,Black Cat,11/3/2019,23.15,100
+Hans Olson Production,Hans Olson,The Birchmere,11/4/2019,23.3,100
+Aron Burton Production,Aron Burton,9:30 Club,11/5/2019,23.45,100
+Fabio Treves Production,Fabio Treves,The Kennedy Center,11/6/2019,0,100
+James Cotton Production,James Cotton,Echostage,11/7/2019,0.15,100
+B.B. King Production,B.B. King,The Fillmore Silver Spring,11/8/2019,0.3,100
+Taj Mahal Production,Taj Mahal,The George Washington University Lisner Auditorium,11/9/2019,0.45,100
+Eric Burdon Production,Eric Burdon,Verizon Center,11/10/2019,1,100
+T-Model Ford Production,T-Model Ford,Dar Constitution Hall,11/11/2019,1.15,100
+Tabby Thomas Production,Tabby Thomas,The Hamilton,11/12/2019,1.3,45
+Jimmy Johnson Production,Jimmy Johnson,Dc9,11/13/2019,1.45,45
+Richard Johnston Production,Richard Johnston,Red Palace,11/14/2019,2,45
+Little Freddie King Production,Little Freddie King,Warner Theatre,11/15/2019,2.15,45
+Andrew Jr. Boy Jones Production,Andrew Jr. Boy Jones,Wolf Trap,11/16/2019,2.3,45
+Gene Kelton Production,Gene Kelton,Lincoln Theatre,11/17/2019,2.45,45
+Tutu Jones Production,Tutu Jones,Merriweather Post Pavilion,11/18/2019,3,45
+Led Zeppelin Production,Led Zeppelin,The Howard Theater,11/19/2019,3.15,45
+Eric Clapton Production,Eric Clapton,Bohemian Caverns,11/20/2019,3.3,50
+Redd Velvet Production,Redd Velvet,Blues Alley,11/21/2019,3.45,50
+Jimmy Burns Production,Jimmy Burns,U Street Music Hall,11/22/2019,4,50
+Seasick Steve Production,Seasick Steve,Rock & Roll Hotel,11/23/2019,4.15,50
+Lil' Ed Williams Production,Lil' Ed Williams,Eighteenth Street Lounge,11/24/2019,4.3,50
+Jimmy Thackery Production,Jimmy Thackery,Iffy Lube Live,11/25/2019,4.45,50
+Jimmy Page Production,Jimmy Page,Black Cat,11/26/2019,5,50
+Mitch Woods Production,Mitch Woods,The Birchmere,11/27/2019,5.15,50
+Grego Anderson Production,Grego Anderson,9:30 Club,11/28/2019,5.3,50
+Doug Macleod Production,Doug Macleod,The Kennedy Center,11/29/2019,5.45,50
+Rod Piazza Production,Rod Piazza,Echostage,11/30/2019,6,65
+Colin James Production,Colin James,The Fillmore Silver Spring,10/23/2019,6.15,65
+The Black Keys Production,The Black Keys,The George Washington University Lisner Auditorium,10/24/2019,6.3,65
+Clutch Production,Clutch,Verizon Center,10/25/2019,6.45,65
+Ken Saydak Production,Ken Saydak,Dar Constitution Hall,10/26/2019,7,65
+Johnny Winter Production,Johnny Winter,The Hamilton,10/27/2019,7.15,65
+The Fabulous Thunderbirds Production,The Fabulous Thunderbirds,Dc9,10/28/2019,7.3,65
+Roomful Of Blues Production,Roomful Of Blues,Red Palace,10/29/2019,7.45,65
+"Guitar Slim, Jr. Production","Guitar Slim, Jr.",Warner Theatre,10/30/2019,8,65
+Bobby Murray Production,Bobby Murray,Wolf Trap,10/31/2019,8.15,65
+Eddie Shaw Production,Eddie Shaw,Lincoln Theatre,11/1/2019,8.3,65
+Roy Gaines Production,Roy Gaines,Merriweather Post Pavilion,11/2/2019,8.45,65
+Bobby Bland Production,Bobby Bland,The Howard Theater,11/3/2019,9,65
+Anson Funderburgh Production,Anson Funderburgh,Bohemian Caverns,11/4/2019,9.15,65
+Tommy Castro Production,Tommy Castro,Blues Alley,11/5/2019,9.3,65
+Al Copley Production,Al Copley,U Street Music Hall,11/6/2019,9.45,100
+Otis Grand Production,Otis Grand,Rock & Roll Hotel,11/7/2019,10,100
+Alto Reed Production,Alto Reed,Eighteenth Street Lounge,11/8/2019,10.15,100
+Sam Myers Production,Sam Myers,Iffy Lube Live,11/9/2019,10.3,100
+Lonnie Brooks Production,Lonnie Brooks,Black Cat,11/10/2019,10.45,100
+Jimmie Vaughan Production,Jimmie Vaughan,The Birchmere,11/11/2019,11,100
+Mose Allison Production,Mose Allison,9:30 Club,11/12/2019,11.15,100
+Robert Plant Production,Robert Plant,The Kennedy Center,11/13/2019,11.3,100
+Charlie Musselwhite Production,Charlie Musselwhite,Echostage,11/14/2019,11.45,100
+Robin Trower Production,Robin Trower,The Fillmore Silver Spring,11/15/2019,12,100
+Rick Holmstrom Production,Rick Holmstrom,The George Washington University Lisner Auditorium,11/16/2019,12.15,100
+Coco Montoya Production,Coco Montoya,Verizon Center,11/17/2019,12.3,100
+James Montgomery (Singer) Production,James Montgomery (Singer),Dar Constitution Hall,11/18/2019,12.45,100
+Thornetta Davis Production,Thornetta Davis,The Hamilton,11/19/2019,13,100
+John Mayall Production,John Mayall,Dc9,11/20/2019,13.15,100
+Ron Holloway Production,Ron Holloway,Red Palace,11/21/2019,13.3,100
+John Juke Logan Production,John Juke Logan,Warner Theatre,11/22/2019,13.45,100
+Keb' Mo' Production,Keb' Mo',Wolf Trap,11/23/2019,14,100
+Black Rebel Motorcycle Club Production,Black Rebel Motorcycle Club,Lincoln Theatre,11/24/2019,14.15,100
+Scott H. Biram Production,Scott H. Biram,Merriweather Post Pavilion,11/25/2019,14.3,100
+Steve Nardella Production,Steve Nardella,The Howard Theater,11/26/2019,14.45,45
+Blind Mississippi Morris Production,Blind Mississippi Morris,Bohemian Caverns,11/27/2019,15,45
+Paul Wine Jones Production,Paul Wine Jones,Blues Alley,11/28/2019,15.15,45
+Janiva Magness Production,Janiva Magness,U Street Music Hall,11/29/2019,15.3,45
+Mick Taylor Production,Mick Taylor,Rock & Roll Hotel,11/30/2019,15.45,45
+The Rolling Stones Production,The Rolling Stones,Eighteenth Street Lounge,10/23/2019,16,45
+Chris Duarte Production,Chris Duarte,Iffy Lube Live,10/24/2019,16.15,45
+Los Lonely Boys Production,Los Lonely Boys,Black Cat,10/25/2019,16.3,45
+Matt Schofield Production,Matt Schofield,The Birchmere,10/26/2019,16.45,50
+Larry Mccray Production,Larry Mccray,9:30 Club,10/27/2019,17,50
+Chris Thomas King Production,Chris Thomas King,The Kennedy Center,10/28/2019,17.15,50
+Gaye Adegbalola Production,Gaye Adegbalola,Echostage,10/29/2019,17.3,50
+Shemekia Copeland Production,Shemekia Copeland,The Fillmore Silver Spring,10/30/2019,17.45,50
+Saffire - The Uppity Blues Women Production,Saffire - The Uppity Blues Women,The George Washington University Lisner Auditorium,10/31/2019,18,50
+James Anthony Production,James Anthony,Verizon Center,11/1/2019,18.15,50
+Bobby Sowell Production,Bobby Sowell,Dar Constitution Hall,11/2/2019,18.3,50
+Tom Waits Production,Tom Waits,The Hamilton,11/3/2019,18.45,50
+Guy Davis Production,Guy Davis,Dc9,11/4/2019,19,50
+Floyd Miles Production,Floyd Miles,Red Palace,11/5/2019,19.15,65
+Marcia Ball Production,Marcia Ball,Warner Theatre,11/6/2019,19.3,65
+Kelly Joe Phelps Production,Kelly Joe Phelps,Wolf Trap,11/7/2019,19.45,65
+Jonny Lang Production,Jonny Lang,Lincoln Theatre,11/8/2019,20,65
+Fruteland Jackson Production,Fruteland Jackson,Merriweather Post Pavilion,11/9/2019,20.15,65
+The Animals Production,The Animals,The Howard Theater,11/10/2019,20.3,65
+Charlie Parr Production,Charlie Parr,Bohemian Caverns,11/11/2019,20.45,65
+Johnny Rawls Production,Johnny Rawls,Blues Alley,11/12/2019,21,65
+Bonnie Raitt Production,Bonnie Raitt,U Street Music Hall,11/13/2019,21.15,65
+Bobby Rush Production,Bobby Rush,Rock & Roll Hotel,11/14/2019,21.3,65
+Alvin Youngblood Hart Production,Alvin Youngblood Hart,Eighteenth Street Lounge,11/15/2019,21.45,65
+James Armstrong Production,James Armstrong,Iffy Lube Live,11/16/2019,22,65
+Todd Sharpville Production,Todd Sharpville,Black Cat,11/17/2019,22.15,65
+Gwyn Ashton Production,Gwyn Ashton,The Birchmere,11/18/2019,22.3,65
+Kid Ramos Production,Kid Ramos,9:30 Club,11/19/2019,22.45,65
+Long John Hunter Production,Long John Hunter,The Kennedy Center,11/20/2019,23,100
+Anthony Gomes Production,Anthony Gomes,Echostage,11/21/2019,23.15,100
+Kazumi Watanabe Production,Kazumi Watanabe,The Fillmore Silver Spring,11/22/2019,23.3,100
+Claudia Carawan Production,Claudia Carawan,The George Washington University Lisner Auditorium,11/23/2019,23.45,100
+Rory Block Production,Rory Block,Verizon Center,11/24/2019,0,100
+Murali Coryell Production,Murali Coryell,Dar Constitution Hall,11/25/2019,0.15,100
+Otis Taylor Production,Otis Taylor,The Hamilton,11/26/2019,0.3,100
+Carol Fran Production,Carol Fran,Dc9,11/27/2019,0.45,100
+The Legendary Blues Band Production,The Legendary Blues Band,Red Palace,11/28/2019,1,100
+Zz Top Production,Zz Top,Warner Theatre,11/29/2019,1.15,100
+Sugar Ray Norcia Production,Sugar Ray Norcia,Wolf Trap,11/30/2019,1.3,100
+Roy Rogers Production,Roy Rogers,Lincoln Theatre,10/23/2019,1.45,100
+Lonnie Mack Production,Lonnie Mack,Merriweather Post Pavilion,10/24/2019,2,100
+Peter Green Production,Peter Green,The Howard Theater,10/25/2019,2.15,100
+Magic Slim Production,Magic Slim,Bohemian Caverns,10/26/2019,2.3,100
+Margie Evans Production,Margie Evans,Blues Alley,10/27/2019,2.45,100
+Smokey Wilson Production,Smokey Wilson,U Street Music Hall,10/28/2019,3,100
+Little Sammy Davis Production,Little Sammy Davis,Rock & Roll Hotel,10/29/2019,3.15,100
+Ben Harper Production,Ben Harper,Eighteenth Street Lounge,10/30/2019,3.3,100
+Joanna Connor Production,Joanna Connor,Iffy Lube Live,10/31/2019,3.45,100
+Blues Explosion Production,Blues Explosion,Black Cat,11/1/2019,4,45
+Terry Garland Production,Terry Garland,The Birchmere,11/2/2019,4.15,45
+John Kirkbride Production,John Kirkbride,9:30 Club,11/3/2019,4.3,45
+Pat Boyack Production,Pat Boyack,The Kennedy Center,11/4/2019,4.45,45
+Nick Cave Production,Nick Cave,Echostage,11/5/2019,5,45
+Ian Siegal Production,Ian Siegal,The Fillmore Silver Spring,11/6/2019,5.15,45
+Sue Foley Production,Sue Foley,The George Washington University Lisner Auditorium,11/7/2019,5.3,45
+Roxanne Potvin Production,Roxanne Potvin,Verizon Center,11/8/2019,5.45,45
+Frankie Lee Production,Frankie Lee,Dar Constitution Hall,11/9/2019,6,50
+G. Love & Special Sauce Production,G. Love & Special Sauce,The Hamilton,11/10/2019,6.15,50
+Norah Jones Production,Norah Jones,Dc9,11/11/2019,6.3,50
+Davy Knowles Production,Davy Knowles,Red Palace,11/12/2019,6.45,50
+Carlos Santana Production,Carlos Santana,Warner Theatre,11/13/2019,7,50
+Catfish Keith Production,Catfish Keith,Wolf Trap,11/14/2019,7.15,50
+Ernie Lancaster Production,Ernie Lancaster,Lincoln Theatre,11/15/2019,7.3,50
+Kenny Neal Production,Kenny Neal,Merriweather Post Pavilion,11/16/2019,7.45,50
+Whitesnake Production,Whitesnake,The Howard Theater,11/17/2019,8,50
+John Dee Holeman Production,John Dee Holeman,Bohemian Caverns,11/18/2019,8.15,50
+James Harman Production,James Harman,Blues Alley,11/19/2019,8.3,65
+Tinsley Ellis Production,Tinsley Ellis,U Street Music Hall,11/20/2019,8.45,65
+Freddie Brooks Production,Freddie Brooks,Rock & Roll Hotel,11/21/2019,9,65
+Freddie Roulette Production,Freddie Roulette,Eighteenth Street Lounge,11/22/2019,9.15,65
+The Who Production,The Who,Iffy Lube Live,11/23/2019,9.3,65
+Elmore D Production,Elmore D,Black Cat,11/24/2019,9.45,65
+Ronnie Baker Brooks Production,Ronnie Baker Brooks,The Birchmere,11/25/2019,10,65
+Dan Auerbach Production,Dan Auerbach,9:30 Club,11/26/2019,10.15,65
+Michael Coleman Production,Michael Coleman,The Kennedy Center,11/27/2019,10.3,65
+Jack White Production,Jack White,Echostage,11/28/2019,10.45,65
+Chris Beard Production,Chris Beard,The Fillmore Silver Spring,11/29/2019,11,65
+Cuby + Blizzards Production,Cuby + Blizzards,The George Washington University Lisner Auditorium,11/30/2019,11.15,65
+Ana Popovi? Production,Ana Popovi?,Verizon Center,10/23/2019,11.3,65
+Grady Gaines Production,Grady Gaines,Dar Constitution Hall,10/24/2019,11.45,65
+Ron Thompson Production,Ron Thompson,The Hamilton,10/25/2019,12,65
+Jody Williams Production,Jody Williams,Dc9,10/26/2019,12.15,100
+Wayne Baker Brooks Production,Wayne Baker Brooks,Red Palace,10/27/2019,12.3,100
+Elvin Bishop Production,Elvin Bishop,Warner Theatre,10/28/2019,12.45,100
+Cash Mccall Production,Cash Mccall,Wolf Trap,10/29/2019,13,100
+Johnny Dyer Production,Johnny Dyer,Lincoln Theatre,10/30/2019,13.15,100
+Johnny Mars Production,Johnny Mars,Merriweather Post Pavilion,10/31/2019,13.3,100
+Scott Henderson Production,Scott Henderson,The Howard Theater,11/1/2019,13.45,100
+Stan Webb Production,Stan Webb,Bohemian Caverns,11/2/2019,14,100
+Little Willie Littlefield Production,Little Willie Littlefield,Blues Alley,11/3/2019,14.15,100
+Johnny B. Moore Production,Johnny B. Moore,U Street Music Hall,11/4/2019,14.3,100
+Oli Brown Production,Oli Brown,Rock & Roll Hotel,11/5/2019,14.45,100
+Eddie Guitar Burns Production,Eddie Guitar Burns,Eighteenth Street Lounge,11/6/2019,15,100
+Mike Morgan Production,Mike Morgan,Iffy Lube Live,11/7/2019,15.15,100
+North Mississippi Allstars Production,North Mississippi Allstars,Black Cat,11/8/2019,15.3,100
+The Kinks Production,The Kinks,The Birchmere,11/9/2019,15.45,100
+Bob Brozman Production,Bob Brozman,9:30 Club,11/10/2019,16,100
+Denny Freeman Production,Denny Freeman,The Kennedy Center,11/11/2019,16.15,100
+Thin Lizzy Production,Thin Lizzy,Echostage,11/12/2019,16.3,100
+Ironing Board Sam Production,Ironing Board Sam,The Fillmore Silver Spring,11/13/2019,16.45,100
+The Blues Brothers Production,The Blues Brothers,The George Washington University Lisner Auditorium,11/14/2019,17,100
+Lavelle White Production,Lavelle White,Verizon Center,11/15/2019,17.15,45
+Drink Small Production,Drink Small,Dar Constitution Hall,11/16/2019,17.3,45
+Sherman Robertson Production,Sherman Robertson,The Hamilton,11/17/2019,17.45,45
+Barrelhouse Chuck Production,Barrelhouse Chuck,Dc9,11/18/2019,18,45
+Lenny Kravitz Production,Lenny Kravitz,Red Palace,11/19/2019,18.15,45
+Paprika Korps Production,Paprika Korps,Warner Theatre,11/20/2019,18.3,45
+Cedric Brooks Production,Cedric Brooks,Wolf Trap,11/21/2019,18.45,45
+Steely & Clevie Production,Steely & Clevie,Lincoln Theatre,11/22/2019,19,45
+Papa Dee Production,Papa Dee,Merriweather Post Pavilion,11/23/2019,19.15,50
+The Mighty Diamonds Production,The Mighty Diamonds,The Howard Theater,11/24/2019,19.3,50
+Devon Irons Production,Devon Irons,Bohemian Caverns,11/25/2019,19.45,50
+Stephen Marley Production,Stephen Marley,Blues Alley,11/26/2019,20,50
+Chaka Demus & Pliers Production,Chaka Demus & Pliers,U Street Music Hall,11/27/2019,20.15,50
+Linval Thompson Production,Linval Thompson,Rock & Roll Hotel,11/28/2019,20.3,50
+Worl-A-Girl Production,Worl-A-Girl,Eighteenth Street Lounge,11/29/2019,20.45,50
+Sheila Hylton Production,Sheila Hylton,Iffy Lube Live,11/30/2019,21,50
+Rupie Edwards Production,Rupie Edwards,Black Cat,10/23/2019,21.15,50
+Black Slate Production,Black Slate,The Birchmere,10/24/2019,21.3,50
+Prince Buster Production,Prince Buster,9:30 Club,10/25/2019,21.45,65
+Ras Shiloh Production,Ras Shiloh,The Kennedy Center,10/26/2019,22,65
+Pliers Production,Pliers,Echostage,10/27/2019,22.15,65
+Voice Mail Production,Voice Mail,The Fillmore Silver Spring,10/28/2019,22.3,65
+Capleton Production,Capleton,The George Washington University Lisner Auditorium,10/29/2019,22.45,65
+Bob Marley & The Wailers Production,Bob Marley & The Wailers,Verizon Center,10/30/2019,23,65
+Cedric Myton Production,Cedric Myton,Dar Constitution Hall,10/31/2019,23.15,65
+Marlon Asher Production,Marlon Asher,The Hamilton,11/1/2019,23.3,65
+Dave Barker Production,Dave Barker,Dc9,11/2/2019,23.45,65
+Pinchers Production,Pinchers,Red Palace,11/3/2019,0,65
+The Cimarons Production,The Cimarons,Warner Theatre,11/4/2019,0.15,65
+The Wailing Souls Production,The Wailing Souls,Wolf Trap,11/5/2019,0.3,65
+Edi Fitzroy Production,Edi Fitzroy,Lincoln Theatre,11/6/2019,0.45,65
+Natiruts Production,Natiruts,Merriweather Post Pavilion,11/7/2019,1,65
+Cocoa Tea Production,Cocoa Tea,The Howard Theater,11/8/2019,1.15,65
+No-Maddz Production,No-Maddz,Bohemian Caverns,11/9/2019,1.3,100
+Roman Stewart Production,Roman Stewart,Blues Alley,11/10/2019,1.45,100
+Tribal Seeds Production,Tribal Seeds,U Street Music Hall,11/11/2019,2,100
+Little Roy Production,Little Roy,Rock & Roll Hotel,11/12/2019,2.15,100
+Keith Hudson Production,Keith Hudson,Eighteenth Street Lounge,11/13/2019,2.3,100
+Tony Rebel Production,Tony Rebel,Iffy Lube Live,11/14/2019,2.45,100
+Alton Ellis Production,Alton Ellis,Black Cat,11/15/2019,3,100
+Lorna Bennett Production,Lorna Bennett,The Birchmere,11/16/2019,3.15,100
+Simplicity Production,Simplicity,9:30 Club,11/17/2019,3.3,100
+Busy Signal Production,Busy Signal,The Kennedy Center,11/18/2019,3.45,100
+Augustus Gussie Clarke Production,Augustus Gussie Clarke,Echostage,11/19/2019,4,100
+Don Campbell Production,Don Campbell,The Fillmore Silver Spring,11/20/2019,4.15,100
+Dobby Dobson Production,Dobby Dobson,The George Washington University Lisner Auditorium,11/21/2019,4.3,100
+The Hippy Boys Production,The Hippy Boys,Verizon Center,11/22/2019,4.45,100
+Phyllis Dillon Production,Phyllis Dillon,Dar Constitution Hall,11/23/2019,5,100
+Honey Boy Production,Honey Boy,The Hamilton,11/24/2019,5.15,100
+Da'Ville Production,Da'Ville,Dc9,11/25/2019,5.3,100
+Captain Sinbad Production,Captain Sinbad,Red Palace,11/26/2019,5.45,100
+Ini Kamoze Production,Ini Kamoze,Warner Theatre,11/27/2019,6,100
+Baby Wayne Production,Baby Wayne,Wolf Trap,11/28/2019,6.15,100
+Christafari Production,Christafari,Lincoln Theatre,11/29/2019,6.3,45
+Derrick Harriott Production,Derrick Harriott,Merriweather Post Pavilion,11/30/2019,6.45,45
+Nicky Thomas Production,Nicky Thomas,The Howard Theater,10/23/2019,7,45
+Jimmy Riley Production,Jimmy Riley,Bohemian Caverns,10/24/2019,7.15,45
+Eric Donaldson Production,Eric Donaldson,Blues Alley,10/25/2019,7.3,45
+Frankie Paul Production,Frankie Paul,U Street Music Hall,10/26/2019,7.45,45
+Andru Branch Production,Andru Branch,Rock & Roll Hotel,10/27/2019,8,45
+Willi Williams Production,Willi Williams,Eighteenth Street Lounge,10/28/2019,8.15,45
+Easy Star All*Stars Production,Easy Star All*Stars,Iffy Lube Live,10/29/2019,8.3,50
+Wayne Wonder Production,Wayne Wonder,Black Cat,10/30/2019,8.45,50
+John Holt Production,John Holt,The Birchmere,10/31/2019,9,50
+Soul Syndicate Production,Soul Syndicate,9:30 Club,11/1/2019,9.15,50
+Josey Wales Production,Josey Wales,The Kennedy Center,11/2/2019,9.3,50
+Beshara Production,Beshara,Echostage,11/3/2019,9.45,50
+Mike Anthony Production,Mike Anthony,The Fillmore Silver Spring,11/4/2019,10,50
+Junior Byles Production,Junior Byles,The George Washington University Lisner Auditorium,11/5/2019,10.15,50
+Errol Dunkley Production,Errol Dunkley,Verizon Center,11/6/2019,10.3,50
+Little John Production,Little John,Dar Constitution Hall,11/7/2019,10.45,50
+Culture Production,Culture,The Hamilton,11/8/2019,11,65
+Nando Boom Production,Nando Boom,Dc9,11/9/2019,11.15,65
+Nayanka Bell Production,Nayanka Bell,Red Palace,11/10/2019,11.3,65
+Big Joe Production,Big Joe,Warner Theatre,11/11/2019,11.45,65
+Leroy Wallace Production,Leroy Wallace,Wolf Trap,11/12/2019,12,65
+Herbs Production,Herbs,Lincoln Theatre,11/13/2019,12.15,65
+Hopeton Lewis Production,Hopeton Lewis,Merriweather Post Pavilion,11/14/2019,12.3,65
+Beres Hammond Production,Beres Hammond,The Howard Theater,11/15/2019,12.45,65
+Matumbi Production,Matumbi,Bohemian Caverns,11/16/2019,13,65
+Buju Banton Production,Buju Banton,Blues Alley,11/17/2019,13.15,65
+Winston Groovy Production,Winston Groovy,U Street Music Hall,11/18/2019,13.3,65
+Bim Sherman Production,Bim Sherman,Rock & Roll Hotel,11/19/2019,13.45,65
+Midnite Production,Midnite,Eighteenth Street Lounge,11/20/2019,14,65
+J.O.E. Production,J.O.E.,Iffy Lube Live,11/21/2019,14.15,65
+Jimmy London Production,Jimmy London,Black Cat,11/22/2019,14.3,65
+Rayvon Production,Rayvon,The Birchmere,11/23/2019,14.45,100
+Jah Lloyd Production,Jah Lloyd,9:30 Club,11/24/2019,15,100
+Winston Riley Production,Winston Riley,The Kennedy Center,11/25/2019,15.15,100
+Ras Michael Production,Ras Michael,Echostage,11/26/2019,15.3,100
+Spanner Banner Production,Spanner Banner,The Fillmore Silver Spring,11/27/2019,15.45,100
+Lloyd Parks Production,Lloyd Parks,The George Washington University Lisner Auditorium,11/28/2019,16,100
+Barry Biggs Production,Barry Biggs,Verizon Center,11/29/2019,16.15,100
+Peter Broggs Production,Peter Broggs,Dar Constitution Hall,11/30/2019,16.3,100
+Lone Ranger Production,Lone Ranger,The Hamilton,10/23/2019,16.45,100
+Oku Onuora Production,Oku Onuora,Dc9,10/24/2019,17,100
+The Blues Busters Production,The Blues Busters,Red Palace,10/25/2019,17.15,100
+Me & You Production,Me & You,Warner Theatre,10/26/2019,17.3,100
+Junior Kelly Production,Junior Kelly,Wolf Trap,10/27/2019,17.45,100
+Bruce Ruffin Production,Bruce Ruffin,Lincoln Theatre,10/28/2019,18,100
+Groundation Production,Groundation,Merriweather Post Pavilion,10/29/2019,18.15,100
+Johnny Osbourne Production,Johnny Osbourne,The Howard Theater,10/30/2019,18.3,100
+Snow Production,Snow,Bohemian Caverns,10/31/2019,18.45,100
+Ken Parker Production,Ken Parker,Blues Alley,11/1/2019,19,100
+Glen Brown Production,Glen Brown,U Street Music Hall,11/2/2019,19.15,100
+The Gladiators Production,The Gladiators,Rock & Roll Hotel,11/3/2019,19.3,100
+Baby Cham Production,Baby Cham,Eighteenth Street Lounge,11/4/2019,19.45,45
+Tenor Saw Production,Tenor Saw,Iffy Lube Live,11/5/2019,20,45
+The Itals Production,The Itals,Black Cat,11/6/2019,20.15,45
+Bob Marley Production,Bob Marley,The Birchmere,11/7/2019,20.3,45
+Audrey Hall Production,Audrey Hall,9:30 Club,11/8/2019,20.45,45
+Tinga Stewart Production,Tinga Stewart,The Kennedy Center,11/9/2019,21,45
+Sizzla Production,Sizzla,Echostage,11/10/2019,21.15,45
+Mike Brooks Production,Mike Brooks,The Fillmore Silver Spring,11/11/2019,21.3,45
+Ziggy Marley Production,Ziggy Marley,The George Washington University Lisner Auditorium,11/12/2019,21.45,50
+Smiley Culture Production,Smiley Culture,Verizon Center,11/13/2019,22,50
+Vybz Kartel Production,Vybz Kartel,Dar Constitution Hall,11/14/2019,22.15,50
+Locomondo Production,Locomondo,The Hamilton,11/15/2019,22.3,50
+Dawn Penn Production,Dawn Penn,Dc9,11/16/2019,22.45,50
+Patrick Andy Production,Patrick Andy,Red Palace,11/17/2019,23,50
+Collie Buddz Production,Collie Buddz,Warner Theatre,11/18/2019,23.15,50
+Ranking Dread Production,Ranking Dread,Wolf Trap,11/19/2019,23.3,50
+Janet Kay Production,Janet Kay,Lincoln Theatre,11/20/2019,23.45,50
+Clive Hunt Production,Clive Hunt,Merriweather Post Pavilion,11/21/2019,0,50
+"Snoop Lion, The Stage Name For Snoop Dogg'S Reggae Projects Production","Snoop Lion, The Stage Name For Snoop Dogg'S Reggae Projects",The Howard Theater,11/22/2019,0.15,65
+Pan Head Production,Pan Head,Bohemian Caverns,11/23/2019,0.3,65
+Barrington Levy Production,Barrington Levy,Blues Alley,11/24/2019,0.45,65
+Gentleman Production,Gentleman,U Street Music Hall,11/25/2019,1,65
+The Roots Radics Production,The Roots Radics,Rock & Roll Hotel,11/26/2019,1.15,65
+Bedouin Soundclash Production,Bedouin Soundclash,Eighteenth Street Lounge,11/27/2019,1.3,65
+The Ruts Production,The Ruts,Iffy Lube Live,11/28/2019,1.45,65
+Junior Brown Production,Junior Brown,Black Cat,11/29/2019,2,65
+Winston Wright Production,Winston Wright,The Birchmere,11/30/2019,2.15,65
+Errol Scorcher Production,Errol Scorcher,9:30 Club,10/23/2019,2.3,65
+Caroll Thompson Production,Caroll Thompson,The Kennedy Center,10/24/2019,2.45,65
+The Maytals Production,The Maytals,Echostage,10/25/2019,3,65
+Inner Circle Production,Inner Circle,The Fillmore Silver Spring,10/26/2019,3.15,65
+Hugh Mundell Production,Hugh Mundell,The George Washington University Lisner Auditorium,10/27/2019,3.3,65
+Jah Woosh Production,Jah Woosh,Verizon Center,10/28/2019,3.45,65
+Anthony Johnson Production,Anthony Johnson,Dar Constitution Hall,10/29/2019,4,100
+Freddie Mckay Production,Freddie Mckay,The Hamilton,10/30/2019,4.15,100
+David Jahson Production,David Jahson,Dc9,10/31/2019,4.3,100
+Millie Production,Millie,Red Palace,11/1/2019,4.45,100
+Sly And Robbie Production,Sly And Robbie,Warner Theatre,11/2/2019,5,100
+Fathead Production,Fathead,Wolf Trap,11/3/2019,5.15,100
+Nora Dean Production,Nora Dean,Lincoln Theatre,11/4/2019,5.3,100
+Toots & The Maytals Production,Toots & The Maytals,Merriweather Post Pavilion,11/5/2019,5.45,100
+Half Pint Production,Half Pint,The Howard Theater,11/6/2019,6,100
+Mutabaruka Production,Mutabaruka,Bohemian Caverns,11/7/2019,6.15,100
+Bob Andy Production,Bob Andy,Blues Alley,11/8/2019,6.3,100
+African Brothers Production,African Brothers,U Street Music Hall,11/9/2019,6.45,100
+Michigan & Smiley Production,Michigan & Smiley,Rock & Roll Hotel,11/10/2019,7,100
+Enos Mcleod Production,Enos Mcleod,Eighteenth Street Lounge,11/11/2019,7.15,100
+The Congos Production,The Congos,Iffy Lube Live,11/12/2019,7.3,100
+The Upsetters Production,The Upsetters,Black Cat,11/13/2019,7.45,100
+Lee Scratch Perry Production,Lee Scratch Perry,The Birchmere,11/14/2019,8,100
+King Stitt Production,King Stitt,9:30 Club,11/15/2019,8.15,100
+Dub Fx Production,Dub Fx,The Kennedy Center,11/16/2019,8.3,100
+Jackie Opel Production,Jackie Opel,Echostage,11/17/2019,8.45,100
+Prezident Brown Production,Prezident Brown,The Fillmore Silver Spring,11/18/2019,9,45
+Daddy Freddy Production,Daddy Freddy,The George Washington University Lisner Auditorium,11/19/2019,9.15,45
+Roy Shirley Production,Roy Shirley,Verizon Center,11/20/2019,9.3,45
+Bad Brains Production,Bad Brains,Dar Constitution Hall,11/21/2019,9.45,45
+Susan Cadogan Production,Susan Cadogan,The Hamilton,11/22/2019,10,45
+Don Carlos Production,Don Carlos,Dc9,11/23/2019,10.15,45
+Macka B Production,Macka B,Red Palace,11/24/2019,10.3,45
+Theophilus Beckford Production,Theophilus Beckford,Warner Theatre,11/25/2019,10.45,45
+Carl Malcolm Production,Carl Malcolm,Wolf Trap,11/26/2019,11,50
+Vavamuffin Production,Vavamuffin,Lincoln Theatre,11/27/2019,11.15,50
+Yellowman Production,Yellowman,Merriweather Post Pavilion,11/28/2019,11.3,50
+Al Anderson Production,Al Anderson,The Howard Theater,11/29/2019,11.45,50
+Ijahman Levi Production,Ijahman Levi,Bohemian Caverns,11/30/2019,12,50
+Serani Production,Serani,Blues Alley,10/23/2019,12.15,50
+Soja Production,Soja,U Street Music Hall,10/24/2019,12.3,50
+Stranger Cole Production,Stranger Cole,Rock & Roll Hotel,10/25/2019,12.45,50
+Queen Ifrica Production,Queen Ifrica,Eighteenth Street Lounge,10/26/2019,13,50
+Rudy Grant Production,Rudy Grant,Iffy Lube Live,10/27/2019,13.15,50
+General Echo Production,General Echo,Black Cat,10/28/2019,13.3,65
+The Meditations Production,The Meditations,The Birchmere,10/29/2019,13.45,65
+Pluto Shervington Production,Pluto Shervington,9:30 Club,10/30/2019,14,65
+Mr. Vegas Production,Mr. Vegas,The Kennedy Center,10/31/2019,14.15,65
+Laurel Aitken Production,Laurel Aitken,Echostage,11/1/2019,14.3,65
+Shinehead Production,Shinehead,The Fillmore Silver Spring,11/2/2019,14.45,65
+Knowledge Production,Knowledge,The George Washington University Lisner Auditorium,11/3/2019,15,65
+Jah Warrior Production,Jah Warrior,Verizon Center,11/4/2019,15.15,65
+Dandy Livingstone Production,Dandy Livingstone,Dar Constitution Hall,11/5/2019,15.3,65
+Jackie Mittoo Production,Jackie Mittoo,The Hamilton,11/6/2019,15.45,65
+Tommy Cowan Production,Tommy Cowan,Dc9,11/7/2019,16,65
+The Paragons Production,The Paragons,Red Palace,11/8/2019,16.15,65
+Mikey Dread Production,Mikey Dread,Warner Theatre,11/9/2019,16.3,65
+Dillinger Production,Dillinger,Wolf Trap,11/10/2019,16.45,65
+The Mexicano Production,The Mexicano,Lincoln Theatre,11/11/2019,17,65
+Don Drummond Production,Don Drummond,Merriweather Post Pavilion,11/12/2019,17.15,100
+Junior Murvin Production,Junior Murvin,The Howard Theater,11/13/2019,17.3,100
+Delroy Wilson Production,Delroy Wilson,Bohemian Caverns,11/14/2019,17.45,100
+Trinity Production,Trinity,Blues Alley,11/15/2019,18,100
+Jukka Poika Production,Jukka Poika,U Street Music Hall,11/16/2019,18.15,100
+Lucky Dube Production,Lucky Dube,Rock & Roll Hotel,11/17/2019,18.3,100
+General Trees Production,General Trees,Eighteenth Street Lounge,11/18/2019,18.45,100
+B.B. Seaton Production,B.B. Seaton,Iffy Lube Live,11/19/2019,19,100
+Jackie Edwards Production,Jackie Edwards,Black Cat,11/20/2019,19.15,100
+Unity Pacific Production,Unity Pacific,The Birchmere,11/21/2019,19.3,100
+Charlie Chaplin Production,Charlie Chaplin,9:30 Club,11/22/2019,19.45,100
+The Ethiopians Production,The Ethiopians,The Kennedy Center,11/23/2019,20,100
+Apache Indian Production,Apache Indian,Echostage,11/24/2019,20.15,100
+Sister Nancy Production,Sister Nancy,The Fillmore Silver Spring,11/25/2019,20.3,100
+Tami Chynn Production,Tami Chynn,The George Washington University Lisner Auditorium,11/26/2019,20.45,100
+Burning Spear Production,Burning Spear,Verizon Center,11/27/2019,21,100
+Jigsy King Production,Jigsy King,Dar Constitution Hall,11/28/2019,21.15,100
+Sean Paul Production,Sean Paul,The Hamilton,11/29/2019,21.3,100
+Jimmy Cliff Production,Jimmy Cliff,Dc9,11/30/2019,21.45,100
+George Nooks Production,George Nooks,Red Palace,10/23/2019,22,100
+Andrew Tosh Production,Andrew Tosh,Warner Theatre,10/24/2019,22.15,45
+Admiral Bailey Production,Admiral Bailey,Wolf Trap,10/25/2019,22.3,45
+Byron Lee Production,Byron Lee,Lincoln Theatre,10/26/2019,22.45,45
+Josh Heinrichs Production,Josh Heinrichs,Merriweather Post Pavilion,10/27/2019,23,45
+The Pioneers Production,The Pioneers,The Howard Theater,10/28/2019,23.15,45
+Althea & Donna Production,Althea & Donna,Bohemian Caverns,10/29/2019,23.3,45
+Culcha Candela Production,Culcha Candela,Blues Alley,10/30/2019,23.45,45
+Peter Tosh Production,Peter Tosh,U Street Music Hall,10/31/2019,0,45
+Prince Mohammed Production,Prince Mohammed,Rock & Roll Hotel,11/1/2019,0.15,50
+Burro Banton Production,Burro Banton,Eighteenth Street Lounge,11/2/2019,0.3,50
+Toyan Production,Toyan,Iffy Lube Live,11/3/2019,0.45,50
+Tradition Production,Tradition,Black Cat,11/4/2019,1,50
+Audio Active Production,Audio Active,The Birchmere,11/5/2019,1.15,50
+Jah Shaka Production,Jah Shaka,9:30 Club,11/6/2019,1.3,50
+Sophia George Production,Sophia George,The Kennedy Center,11/7/2019,1.45,50
+Tiken Jah Fakoly Production,Tiken Jah Fakoly,Echostage,11/8/2019,2,50
+Welton Irie Production,Welton Irie,The Fillmore Silver Spring,11/9/2019,2.15,50
+Ernest Ranglin Production,Ernest Ranglin,The George Washington University Lisner Auditorium,11/10/2019,2.3,50
+Soul Rebels Brass Band Production,Soul Rebels Brass Band,Verizon Center,11/11/2019,2.45,65
+Mikey Spice Production,Mikey Spice,Dar Constitution Hall,11/12/2019,3,65
+Dr Alimantado Production,Dr Alimantado,The Hamilton,11/13/2019,3.15,65
+T.O.K. Production,T.O.K.,Dc9,11/14/2019,3.3,65
+Benjamin Zephaniah Production,Benjamin Zephaniah,Red Palace,11/15/2019,3.45,65
+Scientist Production,Scientist,Warner Theatre,11/16/2019,4,65
+King Tubby Production,King Tubby,Wolf Trap,11/17/2019,4.15,65
+Earl Sixteen Production,Earl Sixteen,Lincoln Theatre,11/18/2019,4.3,65
+Joseph Cotton Production,Joseph Cotton,Merriweather Post Pavilion,11/19/2019,4.45,65
+Screwdriver Production,Screwdriver,The Howard Theater,11/20/2019,5,65
+"Kemar Thompson (Aka Noncowa, Aka Jr. Pinchers) Production","Kemar Thompson (Aka Noncowa, Aka Jr. Pinchers)",Bohemian Caverns,11/21/2019,5.15,65
+Luciano Production,Luciano,Blues Alley,11/22/2019,5.3,65
+Bounty Killer Production,Bounty Killer,U Street Music Hall,11/23/2019,5.45,65
+Cynthia Richards Production,Cynthia Richards,Rock & Roll Hotel,11/24/2019,6,65
+Tony Chin Production,Tony Chin,Eighteenth Street Lounge,11/25/2019,6.15,65
+Al Campbell Production,Al Campbell,Iffy Lube Live,11/26/2019,6.3,100
+Pat Kelly Production,Pat Kelly,Black Cat,11/27/2019,6.45,100
+Dry & Heavy Production,Dry & Heavy,The Birchmere,11/28/2019,7,100
+Ranking Joe Production,Ranking Joe,9:30 Club,11/29/2019,7.15,100
+U-Roy Production,U-Roy,The Kennedy Center,11/30/2019,7.3,100
+I-Wayne Production,I-Wayne,Echostage,10/23/2019,7.45,100
+Junior English Production,Junior English,The Fillmore Silver Spring,10/24/2019,8,100
+Jacob Miller Production,Jacob Miller,The George Washington University Lisner Auditorium,10/25/2019,8.15,100
+Tribo De Jah Production,Tribo De Jah,Verizon Center,10/26/2019,8.3,100
+Fantan Mojah Production,Fantan Mojah,Dar Constitution Hall,10/27/2019,8.45,100
+Dub Incorporation Production,Dub Incorporation,The Hamilton,10/28/2019,9,100
+Joe Higgs Production,Joe Higgs,Dc9,10/29/2019,9.15,100
+Ronnie Davis Production,Ronnie Davis,Red Palace,10/30/2019,9.3,100
+Mega Banton Production,Mega Banton,Warner Theatre,10/31/2019,9.45,100
+Wayne Wade Production,Wayne Wade,Wolf Trap,11/1/2019,10,100
+Tapper Zukie Production,Tapper Zukie,Lincoln Theatre,11/2/2019,10.15,100
+King Sounds Production,King Sounds,Merriweather Post Pavilion,11/3/2019,10.3,100
+Ninjaman Production,Ninjaman,The Howard Theater,11/4/2019,10.45,100
+Bobby Aitken Production,Bobby Aitken,Bohemian Caverns,11/5/2019,11,100
+Icho Candy Production,Icho Candy,Blues Alley,11/6/2019,11.15,100
+Popcaan Production,Popcaan,U Street Music Hall,11/7/2019,11.3,45
+Iration Production,Iration,Rock & Roll Hotel,11/8/2019,11.45,45
+Tanya Stephens Production,Tanya Stephens,Eighteenth Street Lounge,11/9/2019,12,45
+Mishka Production,Mishka,Iffy Lube Live,11/10/2019,12.15,45
+Alborosie Production,Alborosie,Black Cat,11/11/2019,12.3,45
+Tarrus Riley Production,Tarrus Riley,The Birchmere,11/12/2019,12.45,45
+Symarip Production,Symarip,9:30 Club,11/13/2019,13,45
+Morgan Heritage Production,Morgan Heritage,The Kennedy Center,11/14/2019,13.15,45
+Mikey Smith Production,Mikey Smith,Echostage,11/15/2019,13.3,50
+Lincoln Thompson Production,Lincoln Thompson,The Fillmore Silver Spring,11/16/2019,13.45,50
+Winston Reedy Production,Winston Reedy,The George Washington University Lisner Auditorium,11/17/2019,14,50
+The Viceroys Production,The Viceroys,Verizon Center,11/18/2019,14.15,50
+Pepper Production,Pepper,Dar Constitution Hall,11/19/2019,14.3,50
+The Heptones Production,The Heptones,The Hamilton,11/20/2019,14.45,50
+Natasja Saad Production,Natasja Saad,Dc9,11/21/2019,15,50
+Junior Tucker Production,Junior Tucker,Red Palace,11/22/2019,15.15,50
+Clancy Eccles Production,Clancy Eccles,Warner Theatre,11/23/2019,15.3,50
+Rita Marley Production,Rita Marley,Wolf Trap,11/24/2019,15.45,50
+Queen Omega Production,Queen Omega,Lincoln Theatre,11/25/2019,16,65
+Mafia & Fluxy Production,Mafia & Fluxy,Merriweather Post Pavilion,11/26/2019,16.15,65
+Leroy Smart Production,Leroy Smart,The Howard Theater,11/27/2019,16.3,65
+Jah Cure Production,Jah Cure,Bohemian Caverns,11/28/2019,16.45,65
+Mad Professor Production,Mad Professor,Blues Alley,11/29/2019,17,65
+The Rastafarians Production,The Rastafarians,U Street Music Hall,11/30/2019,17.15,65
+The Tamlins Production,The Tamlins,Rock & Roll Hotel,10/23/2019,17.3,65
+The Dynamites Production,The Dynamites,Eighteenth Street Lounge,10/24/2019,17.45,65
+Cutty Ranks Production,Cutty Ranks,Iffy Lube Live,10/25/2019,18,65
+Third World Production,Third World,Black Cat,10/26/2019,18.15,65
+Ranking Roger Production,Ranking Roger,The Birchmere,10/27/2019,18.3,65
+Misty In Roots Production,Misty In Roots,9:30 Club,10/28/2019,18.45,65
+Jah Roots Production,Jah Roots,The Kennedy Center,10/29/2019,19,65
+Daddy Screw Production,Daddy Screw,Echostage,10/30/2019,19.15,65
+Tommy Mccook Production,Tommy Mccook,The Fillmore Silver Spring,10/31/2019,19.3,65
+Alaine Production,Alaine,The George Washington University Lisner Auditorium,11/1/2019,19.45,100
+The Chantells Production,The Chantells,Verizon Center,11/2/2019,20,100
+Lester Sterling Production,Lester Sterling,Dar Constitution Hall,11/3/2019,20.15,100
+Majek Fashek Production,Majek Fashek,The Hamilton,11/4/2019,20.3,100
+The Aggrovators Production,The Aggrovators,Dc9,11/5/2019,20.45,100
+Super Cat Production,Super Cat,Red Palace,11/6/2019,21,100
+Papa San Production,Papa San,Warner Theatre,11/7/2019,21.15,100
+Eek A Mouse Production,Eek A Mouse,Wolf Trap,11/8/2019,21.3,100
+Sister Carol Production,Sister Carol,Lincoln Theatre,11/9/2019,21.45,100
+Damian Junior Gong Marley Production,Damian Junior Gong Marley,Merriweather Post Pavilion,11/10/2019,22,100
+Tippa Irie Production,Tippa Irie,The Howard Theater,11/11/2019,22.15,100
+Starkey Banton Production,Starkey Banton,Bohemian Caverns,11/12/2019,22.3,100
+Brick & Lace Production,Brick & Lace,Blues Alley,11/13/2019,22.45,100
+Unity...The Band Production,Unity...The Band,U Street Music Hall,11/14/2019,23,100
+Boris Gardiner Production,Boris Gardiner,Rock & Roll Hotel,11/15/2019,23.15,100
+The Blackstones Production,The Blackstones,Eighteenth Street Lounge,11/16/2019,23.3,100
+Lynford Anderson Aka 'Andy Capp' Production,Lynford Anderson Aka 'Andy Capp',Iffy Lube Live,11/17/2019,23.45,100
+Sharon Forrester Production,Sharon Forrester,Black Cat,11/18/2019,0,100
+Foxy Brown Production,Foxy Brown,The Birchmere,11/19/2019,0.15,100
+Buccaneer Production,Buccaneer,9:30 Club,11/20/2019,0.3,100
+Caron Wheeler Production,Caron Wheeler,The Kennedy Center,11/21/2019,0.45,45
+Damian Marley Production,Damian Marley,Echostage,11/22/2019,1,45
+Shaggy Production,Shaggy,The Fillmore Silver Spring,11/23/2019,1.15,45
+Junior Marvin Production,Junior Marvin,The George Washington University Lisner Auditorium,11/24/2019,1.3,45
+Little Kevin Production,Little Kevin,Verizon Center,11/25/2019,1.45,45
+Johnny Nash Production,Johnny Nash,Dar Constitution Hall,11/26/2019,2,45
+The In Crowd Production,The In Crowd,The Hamilton,11/27/2019,2.15,45
+Aura Lewis Production,Aura Lewis,Dc9,11/28/2019,2.3,45
+Barry Brown Production,Barry Brown,Red Palace,11/29/2019,2.45,50
+Spragga Benz Production,Spragga Benz,Warner Theatre,11/30/2019,3,50
+Black Uhuru Production,Black Uhuru,Wolf Trap,10/23/2019,3.15,50
+The Clarendonians Production,The Clarendonians,Lincoln Theatre,10/24/2019,3.3,50
+Johnny Ringo Production,Johnny Ringo,Merriweather Post Pavilion,10/25/2019,3.45,50
+Lady Saw Production,Lady Saw,The Howard Theater,10/26/2019,4,50
+Del Arno Band Production,Del Arno Band,Bohemian Caverns,10/27/2019,4.15,50
+Jah Stitch Production,Jah Stitch,Blues Alley,10/28/2019,4.3,50
+Triston Palmer Production,Triston Palmer,U Street Music Hall,10/29/2019,4.45,50
+The Slickers Production,The Slickers,Rock & Roll Hotel,10/30/2019,5,50
+The Chosen Few Production,The Chosen Few,Eighteenth Street Lounge,10/31/2019,5.15,65
+Junior Delgado Production,Junior Delgado,Iffy Lube Live,11/1/2019,5.3,65
+Count Ossie Production,Count Ossie,Black Cat,11/2/2019,5.45,65
+Geoffrey Chung Production,Geoffrey Chung,The Birchmere,11/3/2019,6,65
+Horace Andy Production,Horace Andy,9:30 Club,11/4/2019,6.15,65
+Pablo Moses Production,Pablo Moses,The Kennedy Center,11/5/2019,6.3,65
+Lennie Hibbert Production,Lennie Hibbert,Echostage,11/6/2019,6.45,65
+Yami Bolo Production,Yami Bolo,The Fillmore Silver Spring,11/7/2019,7,65
+Chalice Production,Chalice,The George Washington University Lisner Auditorium,11/8/2019,7.15,65
+Finley Quaye Production,Finley Quaye,Verizon Center,11/9/2019,7.3,65
+Mikey Chung Production,Mikey Chung,Dar Constitution Hall,11/10/2019,7.45,65
+Matisyahu Production,Matisyahu,The Hamilton,11/11/2019,8,65
+Fred Locks Production,Fred Locks,Dc9,11/12/2019,8.15,65
+Steel Pulse Production,Steel Pulse,Red Palace,11/13/2019,8.3,65
+Lieutenant Stitchie Production,Lieutenant Stitchie,Warner Theatre,11/14/2019,8.45,65
+Alozade Production,Alozade,Wolf Trap,11/15/2019,9,100
+Dwight Pinkney Production,Dwight Pinkney,Lincoln Theatre,11/16/2019,9.15,100
+Lutan Fyah Production,Lutan Fyah,Merriweather Post Pavilion,11/17/2019,9.3,100
+Rhythm & Sound Production,Rhythm & Sound,The Howard Theater,11/18/2019,9.45,100
+Garnett Silk Production,Garnett Silk,Bohemian Caverns,11/19/2019,10,100
+Roland Alphonso Production,Roland Alphonso,Blues Alley,11/20/2019,10.15,100
+Marcia Griffiths Production,Marcia Griffiths,U Street Music Hall,11/21/2019,10.3,100
+Linton Kwesi Johnson Production,Linton Kwesi Johnson,Rock & Roll Hotel,11/22/2019,10.45,100
+The Gaylads Production,The Gaylads,Eighteenth Street Lounge,11/23/2019,11,100
+Wingless Angels Production,Wingless Angels,Iffy Lube Live,11/24/2019,11.15,100
+Richie Stephens Production,Richie Stephens,Black Cat,11/25/2019,11.3,100
+Rico Rodriguez Production,Rico Rodriguez,The Birchmere,11/26/2019,11.45,100
+Blue Riddim Band Production,Blue Riddim Band,9:30 Club,11/27/2019,12,100
+Junior Reid Production,Junior Reid,The Kennedy Center,11/28/2019,12.15,100
+Spectacular Production,Spectacular,Echostage,11/29/2019,12.3,100
+Julian Marley Production,Julian Marley,The Fillmore Silver Spring,11/30/2019,12.45,100
+Gregory Isaacs Production,Gregory Isaacs,The George Washington University Lisner Auditorium,10/23/2019,13,100
+The Melodians Production,The Melodians,Verizon Center,10/24/2019,13.15,100
+Deborahe Glasgow Production,Deborahe Glasgow,Dar Constitution Hall,10/25/2019,13.3,100
+The Cables Production,The Cables,The Hamilton,10/26/2019,13.45,100
+Prince Allah Production,Prince Allah,Dc9,10/27/2019,14,45
+The Aces Production,The Aces,Red Palace,10/28/2019,14.15,45
+Wayne Marshall Production,Wayne Marshall,Warner Theatre,10/29/2019,14.3,45
+Nitty Gritty Production,Nitty Gritty,Wolf Trap,10/30/2019,14.45,45
+Rod Taylor Production,Rod Taylor,Lincoln Theatre,10/31/2019,15,45
+Everton Blender Production,Everton Blender,Merriweather Post Pavilion,11/1/2019,15.15,45
+Elephant Man Production,Elephant Man,The Howard Theater,11/2/2019,15.3,45
+Michael Prophet Production,Michael Prophet,Bohemian Caverns,11/3/2019,15.45,45
+The Morwells Production,The Morwells,Blues Alley,11/4/2019,16,50
+The Abyssinians Production,The Abyssinians,U Street Music Hall,11/5/2019,16.15,50
+Tomorrows Bad Seeds Production,Tomorrows Bad Seeds,Rock & Roll Hotel,11/6/2019,16.3,50
+El General Production,El General,Eighteenth Street Lounge,11/7/2019,16.45,50
+Prince Far I Production,Prince Far I,Iffy Lube Live,11/8/2019,17,50
+Winston Jarrett Production,Winston Jarrett,Black Cat,11/9/2019,17.15,50
+Hortense Ellis Production,Hortense Ellis,The Birchmere,11/10/2019,17.3,50
+June Lodge Production,June Lodge,9:30 Club,11/11/2019,17.45,50
+Dennis Bovell Aka Blackbeard Production,Dennis Bovell Aka Blackbeard,The Kennedy Center,11/12/2019,18,50
+Steven Lenky Marsden Production,Steven Lenky Marsden,Echostage,11/13/2019,18.15,50
+Haha Production,Haha,The Fillmore Silver Spring,11/14/2019,18.3,65
+Yabby You Production,Yabby You,The George Washington University Lisner Auditorium,11/15/2019,18.45,65
+Twinkle Brothers Production,Twinkle Brothers,Verizon Center,11/16/2019,19,65
+Wayne Smith Production,Wayne Smith,Dar Constitution Hall,11/17/2019,19.15,65
+Mad Lion Production,Mad Lion,The Hamilton,11/18/2019,19.3,65
+The Uniques Production,The Uniques,Dc9,11/19/2019,19.45,65
+The Clash Production,The Clash,Red Palace,11/20/2019,20,65
+General Levy Production,General Levy,Warner Theatre,11/21/2019,20.15,65
+Ernie Smith Production,Ernie Smith,Wolf Trap,11/22/2019,20.3,65
+Larry Marshall Production,Larry Marshall,Lincoln Theatre,11/23/2019,20.45,65
+Ward 21 Production,Ward 21,Merriweather Post Pavilion,11/24/2019,21,65
+Big Youth Production,Big Youth,The Howard Theater,11/25/2019,21.15,65
+Robert Ffrench Production,Robert Ffrench,Bohemian Caverns,11/26/2019,21.3,65
+Protoje Production,Protoje,Blues Alley,11/27/2019,21.45,65
+Alpha & Omega Production,Alpha & Omega,U Street Music Hall,11/28/2019,22,65
+Jah Lion Aka Jah Lloyd Production,Jah Lion Aka Jah Lloyd,Rock & Roll Hotel,11/29/2019,22.15,100
+Justin Hinds Production,Justin Hinds,Eighteenth Street Lounge,11/30/2019,22.3,100
+Natural Black Production,Natural Black,Iffy Lube Live,10/23/2019,22.45,100
+Levi Roots Production,Levi Roots,Black Cat,10/24/2019,23,100
+Dennis Alcapone Production,Dennis Alcapone,The Birchmere,10/25/2019,23.15,100
+Vin Gordon Production,Vin Gordon,9:30 Club,10/26/2019,23.3,100
+Ansell Collins Production,Ansell Collins,The Kennedy Center,10/27/2019,23.45,100
+Eric Bingy Bunny Lamont Production,Eric Bingy Bunny Lamont,Echostage,10/28/2019,0,100
+Nicodemus Production,Nicodemus,The Fillmore Silver Spring,10/29/2019,0.15,100
+The Revolutionaries Production,The Revolutionaries,The George Washington University Lisner Auditorium,10/30/2019,0.3,100
+Peter Metro Production,Peter Metro,Verizon Center,10/31/2019,0.45,100
+Diana King Production,Diana King,Dar Constitution Hall,11/1/2019,1,100
+Bongo Herman Production,Bongo Herman,The Hamilton,11/2/2019,1.15,100
+Eddie Thornton Aka 'Tan Tan' Production,Eddie Thornton Aka 'Tan Tan',Dc9,11/3/2019,1.3,100
+Freddie Mcgregor Production,Freddie Mcgregor,Red Palace,11/4/2019,1.45,100
+Michael Rose Production,Michael Rose,Warner Theatre,11/5/2019,2,100
+Born Jamericans Production,Born Jamericans,Wolf Trap,11/6/2019,2.15,100
+Max Romeo Production,Max Romeo,Lincoln Theatre,11/7/2019,2.3,100
+Chuck Fenda Production,Chuck Fenda,Merriweather Post Pavilion,11/8/2019,2.45,100
+Peter Hunnigale Production,Peter Hunnigale,The Howard Theater,11/9/2019,3,100
+Jah Thomas Production,Jah Thomas,Bohemian Caverns,11/10/2019,3.15,45
+Sanchez Production,Sanchez,Blues Alley,11/11/2019,3.3,45
+Martin Campbell Production,Martin Campbell,U Street Music Hall,11/12/2019,3.45,45
+Mad Cobra Production,Mad Cobra,Rock & Roll Hotel,11/13/2019,4,45
+Dean Fraser Production,Dean Fraser,Eighteenth Street Lounge,11/14/2019,4.15,45
+Raappana (Musician) Production,Raappana (Musician),Iffy Lube Live,11/15/2019,4.3,45
+Pato Banton Production,Pato Banton,Black Cat,11/16/2019,4.45,45
+Jah Mason Production,Jah Mason,The Birchmere,11/17/2019,5,45
+I-Threes Production,I-Threes,9:30 Club,11/18/2019,5.15,50
+Eddy Grant Production,Eddy Grant,The Kennedy Center,11/19/2019,5.3,50
+Baba Brooks Production,Baba Brooks,Echostage,11/20/2019,5.45,50
+Sly Dunbar Production,Sly Dunbar,The Fillmore Silver Spring,11/21/2019,6,50
+Anthony B Production,Anthony B,The George Washington University Lisner Auditorium,11/22/2019,6.15,50
+Desmond Dekker Production,Desmond Dekker,Verizon Center,11/23/2019,6.3,50
+Zap Pow Production,Zap Pow,Dar Constitution Hall,11/24/2019,6.45,50
+Sean Kingston Production,Sean Kingston,The Hamilton,11/25/2019,7,50
+The Royals Production,The Royals,Dc9,11/26/2019,7.15,50
+Barry Boom Production,Barry Boom,Red Palace,11/27/2019,7.3,50
+"Word, Sound And Power Production","Word, Sound And Power",Warner Theatre,11/28/2019,7.45,65
+The Techniques Production,The Techniques,Wolf Trap,11/29/2019,8,65
+Winston Grennan Production,Winston Grennan,Lincoln Theatre,11/30/2019,8.15,65
+Musical Youth Production,Musical Youth,Merriweather Post Pavilion,10/23/2019,8.3,65
+Lacksley Castell Production,Lacksley Castell,The Howard Theater,10/24/2019,8.45,65
+Richie Spice Production,Richie Spice,Bohemian Caverns,10/25/2019,9,65
+Bunny Wailer Production,Bunny Wailer,Blues Alley,10/26/2019,9.15,65
+Judy Mowatt Production,Judy Mowatt,U Street Music Hall,10/27/2019,9.3,65
+Mavado Production,Mavado,Rock & Roll Hotel,10/28/2019,9.45,65
+Johnny Clarke Production,Johnny Clarke,Eighteenth Street Lounge,10/29/2019,10,65
+Nigger Kojak Production,Nigger Kojak,Iffy Lube Live,10/30/2019,10.15,65
+Errol Holt Production,Errol Holt,Black Cat,10/31/2019,10.3,65
+Tiger Production,Tiger,The Birchmere,11/1/2019,10.45,65
+Admiral T Production,Admiral T,9:30 Club,11/2/2019,11,65
+Lloyd Charmers Production,Lloyd Charmers,The Kennedy Center,11/3/2019,11.15,65
+Black Roots Production,Black Roots,Echostage,11/4/2019,11.3,100
+Seeed Production,Seeed,The Fillmore Silver Spring,11/5/2019,11.45,100
+I-Roy Production,I-Roy,The George Washington University Lisner Auditorium,11/6/2019,12,100
+Shabba Ranks Production,Shabba Ranks,Verizon Center,11/7/2019,12.15,100
+Kiddus I Production,Kiddus I,Dar Constitution Hall,11/8/2019,12.3,100
+The Black Seeds Production,The Black Seeds,The Hamilton,11/9/2019,12.45,100
+Alpha Blondy Production,Alpha Blondy,Dc9,11/10/2019,13,100
+Augustus Pablo Production,Augustus Pablo,Red Palace,11/11/2019,13.15,100
+The Silvertones Production,The Silvertones,Warner Theatre,11/12/2019,13.3,100
+Maxi Priest Production,Maxi Priest,Wolf Trap,11/13/2019,13.45,100
+Ras Midas Production,Ras Midas,Lincoln Theatre,11/14/2019,14,100
+Judge Dread Production,Judge Dread,Merriweather Post Pavilion,11/15/2019,14.15,100
+Earl Zero Production,Earl Zero,The Howard Theater,11/16/2019,14.3,100
+Prince Rockbo Production,Prince Rockbo,Bohemian Caverns,11/17/2019,14.45,100
+Daab Production,Daab,Blues Alley,11/18/2019,15,100
+Greyhound Production,Greyhound,U Street Music Hall,11/19/2019,15.15,100
+Scotty Production,Scotty,Rock & Roll Hotel,11/20/2019,15.3,100
+Sugar Minott Production,Sugar Minott,Eighteenth Street Lounge,11/21/2019,15.45,100
+Ky-Mani Marley Production,Ky-Mani Marley,Iffy Lube Live,11/22/2019,16,100
+Slim Smith Production,Slim Smith,Black Cat,11/23/2019,16.15,100
+The Rudies Production,The Rudies,The Birchmere,11/24/2019,16.3,45
+Yasus Afari Production,Yasus Afari,9:30 Club,11/25/2019,16.45,45
+Ub40 Production,Ub40,The Kennedy Center,11/26/2019,17,45
+Jamal Production,Jamal,Echostage,11/27/2019,17.15,45
+The Pyramids Production,The Pyramids,The Fillmore Silver Spring,11/28/2019,17.3,45
+Annette Brissett Production,Annette Brissett,The George Washington University Lisner Auditorium,11/29/2019,17.45,45
+Bushman Production,Bushman,Verizon Center,11/30/2019,18,45
+Dennis Brown Production,Dennis Brown,Dar Constitution Hall,10/23/2019,18.15,45
+Beenie Man Production,Beenie Man,The Hamilton,10/24/2019,18.3,50
+Devon Russell Production,Devon Russell,Dc9,10/25/2019,18.45,50
+The Maytones Production,The Maytones,Red Palace,10/26/2019,19,50
+Gene Rondo Production,Gene Rondo,Warner Theatre,10/27/2019,19.15,50
+E.T. Webster Production,E.T. Webster,Wolf Trap,10/28/2019,19.3,50
+Tonton David Production,Tonton David,Lincoln Theatre,10/29/2019,19.45,50
+Vibronics Production,Vibronics,Merriweather Post Pavilion,10/30/2019,20,50
+Big Mountain Production,Big Mountain,The Howard Theater,10/31/2019,20.15,50
+Cornell Campbell Production,Cornell Campbell,Bohemian Caverns,11/1/2019,20.3,50
+Israel Vibration Production,Israel Vibration,Blues Alley,11/2/2019,20.45,50
+Derrick Morgan Production,Derrick Morgan,U Street Music Hall,11/3/2019,21,65
+Clint Eastwood Production,Clint Eastwood,Rock & Roll Hotel,11/4/2019,21.15,65
+The Drastics Production,The Drastics,Eighteenth Street Lounge,11/5/2019,21.3,65
+Bitty Mclean Production,Bitty Mclean,Iffy Lube Live,11/6/2019,21.45,65
+Cultura Profética Production,Cultura Profética,Black Cat,11/7/2019,22,65
+Ken Boothe Production,Ken Boothe,The Birchmere,11/8/2019,22.15,65
+Red Rat Production,Red Rat,9:30 Club,11/9/2019,22.3,65
+Aisha Production,Aisha,The Kennedy Center,11/10/2019,22.45,65
+Jermaine Fagan Production,Jermaine Fagan,Echostage,11/11/2019,23,65
+Carlton And The Shoes Production,Carlton And The Shoes,The Fillmore Silver Spring,11/12/2019,23.15,65
+Lynn Taitt Production,Lynn Taitt,The George Washington University Lisner Auditorium,11/13/2019,23.3,65
+Rebelution Production,Rebelution,Verizon Center,11/14/2019,23.45,65
+Aswad Production,Aswad,Dar Constitution Hall,11/15/2019,0,65
+Katchafire Production,Katchafire,The Hamilton,11/16/2019,0.15,65
+U Brown Production,U Brown,Dc9,11/17/2019,0.3,65
+Massive Dread Production,Massive Dread,Red Palace,11/18/2019,0.45,100
+The Tennors Production,The Tennors,Warner Theatre,11/19/2019,1,100
+Gyptian Production,Gyptian,Wolf Trap,11/20/2019,1.15,100
+Glen Adams Production,Glen Adams,Lincoln Theatre,11/21/2019,1.3,100
+Owen Gray Production,Owen Gray,Merriweather Post Pavilion,11/22/2019,1.45,100
+Busted Production,Busted,The Howard Theater,11/23/2019,2,100
+Buckethead & Friends Production,Buckethead & Friends,Bohemian Caverns,11/24/2019,2.15,100
+Blue States Production,Blue States,Blues Alley,11/25/2019,2.3,100
+Brenda Lee Production,Brenda Lee,U Street Music Hall,11/26/2019,2.45,100
+Brian May Production,Brian May,Rock & Roll Hotel,11/27/2019,3,100
+Brian Eno Production,Brian Eno,Eighteenth Street Lounge,11/28/2019,3.15,100
+Bruce Springsteen & The E Street Band Production,Bruce Springsteen & The E Street Band,Iffy Lube Live,11/29/2019,3.3,100
+Blind Faith Production,Blind Faith,Black Cat,11/30/2019,3.45,100
+Brian Bromberg Production,Brian Bromberg,The Birchmere,10/23/2019,4,100
+Burton Cummings Production,Burton Cummings,9:30 Club,10/24/2019,4.15,100
+Bob Seger Production,Bob Seger,The Kennedy Center,10/25/2019,4.3,100
+Bobaflex Production,Bobaflex,Echostage,10/26/2019,4.45,100
+Blue Cheer Production,Blue Cheer,The Fillmore Silver Spring,10/27/2019,5,100
+Buckcherry Production,Buckcherry,The George Washington University Lisner Auditorium,10/28/2019,5.15,100
+Brides Of Destruction Production,Brides Of Destruction,Verizon Center,10/29/2019,5.3,100
+Bob Dylan Production,Bob Dylan,Dar Constitution Hall,10/30/2019,5.45,45
+Bonnie Tyler Production,Bonnie Tyler,The Hamilton,10/31/2019,6,45
+Bros Production,Bros,Dc9,11/1/2019,6.15,45
+Bruce Kulick Production,Bruce Kulick,Red Palace,11/2/2019,6.3,45
+Bulletboys Production,Bulletboys,Warner Theatre,11/3/2019,6.45,45
+Brian Setzer Production,Brian Setzer,Wolf Trap,11/4/2019,7,45
+Blackmore'S Night Production,Blackmore'S Night,Lincoln Theatre,11/5/2019,7.15,45
+Bonnie Raitt Production,Bonnie Raitt,Merriweather Post Pavilion,11/6/2019,7.3,45
+Blue Oyster Cult Production,Blue Oyster Cult,The Howard Theater,11/7/2019,7.45,50
+Buffalo Killers Production,Buffalo Killers,Bohemian Caverns,11/8/2019,8,50
+Bratz Production,Bratz,Blues Alley,11/9/2019,8.15,50
+Boston Production,Boston,U Street Music Hall,11/10/2019,8.3,50
+Bruce Dickinson Production,Bruce Dickinson,Rock & Roll Hotel,11/11/2019,8.45,50
+Blanc Faces Production,Blanc Faces,Eighteenth Street Lounge,11/12/2019,9,50
+Brass Castle Production,Brass Castle,Iffy Lube Live,11/13/2019,9.15,50
+Blondie Production,Blondie,Black Cat,11/14/2019,9.3,50
+Buttercup Production,Buttercup,The Birchmere,11/15/2019,9.45,50
+Bob Schneider Production,Bob Schneider,9:30 Club,11/16/2019,10,50
+Bruce Springsteen Production,Bruce Springsteen,The Kennedy Center,11/17/2019,10.15,65
+Boy George Production,Boy George,Echostage,11/18/2019,10.3,65
+Burning Brides Production,Burning Brides,The Fillmore Silver Spring,11/19/2019,10.45,65
+Black Stone Cherry Production,Black Stone Cherry,The George Washington University Lisner Auditorium,11/20/2019,11,65
+Bride Production,Bride,Verizon Center,11/21/2019,11.15,65
+Blur Production,Blur,Dar Constitution Hall,11/22/2019,11.3,65
+Brand New Sin Production,Brand New Sin,The Hamilton,11/23/2019,11.45,65
+"Blood, Sweat & Tears Production","Blood, Sweat & Tears",Dc9,11/24/2019,12,65
+Bob Seger & The Silver Bullet Band Production,Bob Seger & The Silver Bullet Band,Red Palace,11/25/2019,12.15,65
+Bo Bice Production,Bo Bice,Warner Theatre,11/26/2019,12.3,65
+Brandi Carlile Production,Brandi Carlile,Wolf Trap,11/27/2019,12.45,65
+Broadcast & The Focus Group Production,Broadcast & The Focus Group,Lincoln Theatre,11/28/2019,13,65
+Bruce Hornsby Production,Bruce Hornsby,Merriweather Post Pavilion,11/29/2019,13.15,65
+Boyce Avenue Production,Boyce Avenue,The Howard Theater,11/30/2019,13.3,65
+Blind Production,Blind,Bohemian Caverns,10/23/2019,13.45,65
+Brian Eno & J Production,Brian Eno & J,Blues Alley,10/24/2019,14,100
+Blasted Mechanism Production,Blasted Mechanism,U Street Music Hall,10/25/2019,14.15,100
+Bryan Adams Production,Bryan Adams,Rock & Roll Hotel,10/26/2019,14.3,100
+Buddy Holly Production,Buddy Holly,Eighteenth Street Lounge,10/27/2019,14.45,100
+Blackout Beach Production,Blackout Beach,Iffy Lube Live,10/28/2019,15,100
+Bruce Hornsby & The Range Production,Bruce Hornsby & The Range,Black Cat,10/29/2019,15.15,100
+Blues Traveler Production,Blues Traveler,The Birchmere,10/30/2019,15.3,100
+Brett Anderson Production,Brett Anderson,9:30 Club,10/31/2019,15.45,100
+Britney Spears Production,Britney Spears,The Kennedy Center,11/1/2019,16,100
+Blackfoot Production,Blackfoot,Echostage,11/2/2019,16.15,100
+Butthole Surfers Production,Butthole Surfers,The Fillmore Silver Spring,11/3/2019,16.3,100
+Bon Jovi Production,Bon Jovi,The George Washington University Lisner Auditorium,11/4/2019,16.45,100
+Brad Production,Brad,Verizon Center,11/5/2019,17,100
+Boudewijn De Groot Production,Boudewijn De Groot,Dar Constitution Hall,11/6/2019,17.15,100
+Blossom Toes Production,Blossom Toes,The Hamilton,11/7/2019,17.3,100
+Buckethead Production,Buckethead,Dc9,11/8/2019,17.45,100
+Brute Production,Brute,Red Palace,11/9/2019,18,100
+Bob Mould Production,Bob Mould,Warner Theatre,11/10/2019,18.15,100
+Broadway Production,Broadway,Wolf Trap,11/11/2019,18.3,100
+Brooke White Production,Brooke White,Lincoln Theatre,11/12/2019,18.45,100
+Britny Fox Production,Britny Fox,Merriweather Post Pavilion,11/13/2019,19,45
+Bluejuice Production,Bluejuice,The Howard Theater,11/14/2019,19.15,45
+Bombay Bicycle Club Production,Bombay Bicycle Club,Bohemian Caverns,11/15/2019,19.3,45
+Breathe Carolina Production,Breathe Carolina,Blues Alley,11/16/2019,19.45,45
+Blaudzun Production,Blaudzun,U Street Music Hall,11/17/2019,20,45
+Burt Bacharach Production,Burt Bacharach,Rock & Roll Hotel,11/18/2019,20.15,45
+Boris Production,Boris,Eighteenth Street Lounge,11/19/2019,20.3,45
+Bobby Mcferrin Production,Bobby Mcferrin,Iffy Lube Live,11/20/2019,20.45,45
+Boz Scaggs Production,Boz Scaggs,Black Cat,11/21/2019,21,50
+Budgie Production,Budgie,The Birchmere,11/22/2019,21.15,50
+Bury Manifold Production,Bury Manifold,9:30 Club,11/23/2019,21.3,50
+Bloodflowerz Production,Bloodflowerz,The Kennedy Center,11/24/2019,21.45,50
+British India Production,British India,Echostage,11/25/2019,22,50
+Blue October (Uk) Production,Blue October (Uk),The Fillmore Silver Spring,11/26/2019,22.15,50
+Blonde Redhead Production,Blonde Redhead,The George Washington University Lisner Auditorium,11/27/2019,22.3,50
+Butch Walker Production,Butch Walker,Verizon Center,11/28/2019,22.45,50
+Bob Geldof Production,Bob Geldof,Dar Constitution Hall,11/29/2019,23,50
+Bryn Jones Production,Bryn Jones,The Hamilton,11/30/2019,23.15,50
+Bury Tomorrow Production,Bury Tomorrow,Dc9,10/23/2019,23.3,65
+Body Count Production,Body Count,Red Palace,10/24/2019,23.45,65
+Blessed By A Broken Heart Production,Blessed By A Broken Heart,Warner Theatre,10/25/2019,0,65
+Bo Diddley Production,Bo Diddley,Wolf Trap,10/26/2019,0.15,65
+Bread Production,Bread,Lincoln Theatre,10/27/2019,0.3,65
+Buffalo Springfield Production,Buffalo Springfield,Merriweather Post Pavilion,10/28/2019,0.45,65
+Brian Wilson Production,Brian Wilson,The Howard Theater,10/29/2019,1,65
+Butch Walker And The Black Widows Production,Butch Walker And The Black Widows,Bohemian Caverns,10/30/2019,1.15,65
+Blutengel Production,Blutengel,Blues Alley,10/31/2019,1.3,65
+Blackberry Smoke Production,Blackberry Smoke,U Street Music Hall,11/1/2019,1.45,65
+Bryan Ferry Production,Bryan Ferry,Rock & Roll Hotel,11/2/2019,2,65
+Blue Floyd Production,Blue Floyd,Eighteenth Street Lounge,11/3/2019,2.15,65
+Barclay James Harvest Production,Barclay James Harvest,Iffy Lube Live,11/4/2019,2.3,65
+Awesome Color Production,Awesome Color,Black Cat,11/5/2019,2.45,65
+Bananarama Production,Bananarama,The Birchmere,11/6/2019,3,65
+Aloha Production,Aloha,9:30 Club,11/7/2019,3.15,100
+Bad English Production,Bad English,The Kennedy Center,11/8/2019,3.3,100
+Big Country Production,Big Country,Echostage,11/9/2019,3.45,100
+Argent Production,Argent,The Fillmore Silver Spring,11/10/2019,4,100
+B-52'S Production,B-52'S,The George Washington University Lisner Auditorium,11/11/2019,4.15,100
+Bauhaus Production,Bauhaus,Verizon Center,11/12/2019,4.3,100
+Be Bop Deluxe Production,Be Bop Deluxe,Dar Constitution Hall,11/13/2019,4.45,100
+Angels And Airwaves Production,Angels And Airwaves,The Hamilton,11/14/2019,5,100
+Bee Gees Production,Bee Gees,Dc9,11/15/2019,5.15,100
+A Girl Called Eddy Production,A Girl Called Eddy,Red Palace,11/16/2019,5.3,100
+Avantasia Production,Avantasia,Warner Theatre,11/17/2019,5.45,100
+Accept Production,Accept,Wolf Trap,11/18/2019,6,100
+Argyle Johansen Production,Argyle Johansen,Lincoln Theatre,11/19/2019,6.15,100
+Astra Production,Astra,Merriweather Post Pavilion,11/20/2019,6.3,100
+Beck Production,Beck,The Howard Theater,11/21/2019,6.45,100
+Beach House Production,Beach House,Bohemian Caverns,11/22/2019,7,100
+Alan Vega Production,Alan Vega,Blues Alley,11/23/2019,7.15,100
+Belinda Carlisle Production,Belinda Carlisle,U Street Music Hall,11/24/2019,7.3,100
+Billy Joel Production,Billy Joel,Rock & Roll Hotel,11/25/2019,7.45,100
+Bad Company Production,Bad Company,Eighteenth Street Lounge,11/26/2019,8,100
+Black Bonzo Production,Black Bonzo,Iffy Lube Live,11/27/2019,8.15,45
+Apollo Sunshine Production,Apollo Sunshine,Black Cat,11/28/2019,8.3,45
+Airbourne Production,Airbourne,The Birchmere,11/29/2019,8.45,45
+Before Four Production,Before Four,9:30 Club,11/30/2019,9,45
+Bad Company Uk Production,Bad Company Uk,The Kennedy Center,10/23/2019,9.15,45
+Amie Miriello Production,Amie Miriello,Echostage,10/24/2019,9.3,45
+Biohazard Production,Biohazard,The Fillmore Silver Spring,10/25/2019,9.45,45
+Bill Haley Production,Bill Haley,The George Washington University Lisner Auditorium,10/26/2019,10,45
+Bird York Production,Bird York,Verizon Center,10/27/2019,10.15,50
+Black Mountain Production,Black Mountain,Dar Constitution Hall,10/28/2019,10.3,50
+Alizee Production,Alizee,The Hamilton,10/29/2019,10.45,50
+Anya Marina Production,Anya Marina,Dc9,10/30/2019,11,50
+Amy Macdonald Production,Amy Macdonald,Red Palace,10/31/2019,11.15,50
+Ad Frank & The Fast Easy Women Production,Ad Frank & The Fast Easy Women,Warner Theatre,11/1/2019,11.3,50
+Alexz Johnson Production,Alexz Johnson,Wolf Trap,11/2/2019,11.45,50
+Bianca Ryan Production,Bianca Ryan,Lincoln Theatre,11/3/2019,12,50
+Berlin Production,Berlin,Merriweather Post Pavilion,11/4/2019,12.15,50
+Alana Grace Production,Alana Grace,The Howard Theater,11/5/2019,12.3,50
+Bang Tango Production,Bang Tango,Bohemian Caverns,11/6/2019,12.45,65
+Amel Bent Production,Amel Bent,Blues Alley,11/7/2019,13,65
+Avion Travel Production,Avion Travel,U Street Music Hall,11/8/2019,13.15,65
+Associates Production,Associates,Rock & Roll Hotel,11/9/2019,13.3,65
+Angus & Julia Stone Production,Angus & Julia Stone,Eighteenth Street Lounge,11/10/2019,13.45,65
+Automatic Man Production,Automatic Man,Iffy Lube Live,11/11/2019,14,65
+Alan Bernhoft Production,Alan Bernhoft,Black Cat,11/12/2019,14.15,65
+Arena Production,Arena,The Birchmere,11/13/2019,14.3,65
+Atlas Sound Production,Atlas Sound,9:30 Club,11/14/2019,14.45,65
+Angel City Production,Angel City,The Kennedy Center,11/15/2019,15,65
+A Fine Frenzy Production,A Fine Frenzy,Echostage,11/16/2019,15.15,65
+Billy Squier Production,Billy Squier,The Fillmore Silver Spring,11/17/2019,15.3,65
+Billy Bragg Production,Billy Bragg,The George Washington University Lisner Auditorium,11/18/2019,15.45,65
+Adam Ant Production,Adam Ant,Verizon Center,11/19/2019,16,65
+Ani Difranco Production,Ani Difranco,Dar Constitution Hall,11/20/2019,16.15,65
+Big Fat Snake Production,Big Fat Snake,The Hamilton,11/21/2019,16.3,100
+Astronautalis Production,Astronautalis,Dc9,11/22/2019,16.45,100
+Bad Lieutenant Production,Bad Lieutenant,Red Palace,11/23/2019,17,100
+Alice Peacock Production,Alice Peacock,Warner Theatre,11/24/2019,17.15,100
+Adam Green Production,Adam Green,Wolf Trap,11/25/2019,17.3,100
+Arlo Guthrie Production,Arlo Guthrie,Lincoln Theatre,11/26/2019,17.45,100
+Aldo Nova Production,Aldo Nova,Merriweather Post Pavilion,11/27/2019,18,100
+Annie Lennox Production,Annie Lennox,The Howard Theater,11/28/2019,18.15,100
+Billy Bob Thornton Production,Billy Bob Thornton,Bohemian Caverns,11/29/2019,18.3,100
+Beth Orton Production,Beth Orton,Blues Alley,11/30/2019,18.45,100
+And So I Watch You From Afar Production,And So I Watch You From Afar,U Street Music Hall,12/1/2019,19,100
+Art Garfunkel Production,Art Garfunkel,Rock & Roll Hotel,12/2/2019,19.15,100
+Andromeda Production,Andromeda,Eighteenth Street Lounge,12/3/2019,19.3,100
+A1 Production,A1,Iffy Lube Live,12/4/2019,19.45,100
+Bernd Rinser Production,Bernd Rinser,Black Cat,12/5/2019,20,100
+Army Of Anyone Production,Army Of Anyone,The Birchmere,12/6/2019,20.15,100
+Axel Rudi Pell Production,Axel Rudi Pell,9:30 Club,12/7/2019,20.3,100
+Aaron Neville Production,Aaron Neville,The Kennedy Center,12/8/2019,20.45,100
+Admiral Twin Production,Admiral Twin,Echostage,12/9/2019,21,100
+Alphabeat Production,Alphabeat,The Fillmore Silver Spring,12/10/2019,21.15,100
+A-Studio Production,A-Studio,The George Washington University Lisner Auditorium,12/11/2019,21.3,45
+Bay City Rollers Production,Bay City Rollers,Verizon Center,12/12/2019,21.45,45
+Baby Animals Production,Baby Animals,Dar Constitution Hall,12/13/2019,22,45
+Anna F Production,Anna F,The Hamilton,12/14/2019,22.15,45
+Babe Ruth Production,Babe Ruth,Dc9,12/15/2019,22.3,45
+Adrian Belew Production,Adrian Belew,Red Palace,12/16/2019,22.45,45
+Big Star Production,Big Star,Warner Theatre,12/17/2019,23,45
+Backstreet Boys Production,Backstreet Boys,Wolf Trap,12/18/2019,23.15,45
+Badfinger Production,Badfinger,Lincoln Theatre,12/19/2019,23.3,50
+Algren Production,Algren,Merriweather Post Pavilion,12/20/2019,23.45,50
+Ac/Dc Production,Ac/Dc,The Howard Theater,12/21/2019,0,50
+Black Production,Black,Bohemian Caverns,12/22/2019,0.15,50
+A Silent Film Production,A Silent Film,Blues Alley,12/23/2019,0.3,50
+Al Stewart Production,Al Stewart,U Street Music Hall,12/24/2019,0.45,50
+Ayo Production,Ayo,Rock & Roll Hotel,12/25/2019,1,50
+B. G Production,B. G,Eighteenth Street Lounge,12/26/2019,1.15,50
+Bellowhead Production,Bellowhead,Iffy Lube Live,12/27/2019,1.3,50
+Beth Hart Production,Beth Hart,Black Cat,12/28/2019,1.45,50
+Babybird Production,Babybird,The Birchmere,12/29/2019,2,65
+A Silver Mt. Zion Production,A Silver Mt. Zion,9:30 Club,12/30/2019,2.15,65
+Alela Diane Production,Alela Diane,The Kennedy Center,12/31/2019,2.3,65
+Better Than Ezra Production,Better Than Ezra,Echostage,1/1/2020,2.45,65
+Battles Production,Battles,The Fillmore Silver Spring,1/2/2020,3,65
+Akron/Family Production,Akron/Family,The George Washington University Lisner Auditorium,1/3/2020,3.15,65
+Alphaville Production,Alphaville,Verizon Center,1/4/2020,3.3,65
+Bird Show Production,Bird Show,Dar Constitution Hall,1/5/2020,3.45,65
+Badlands Production,Badlands,The Hamilton,1/6/2020,4,65
+A Certain Ratio Production,A Certain Ratio,Dc9,1/7/2020,4.15,65
+Andy Anderson Production,Andy Anderson,Red Palace,1/8/2020,4.3,65
+Agalloch Production,Agalloch,Warner Theatre,1/9/2020,4.45,65
+Aretha Franklin Production,Aretha Franklin,Wolf Trap,1/10/2020,5,65
+Adem Production,Adem,Lincoln Theatre,1/11/2020,5.15,65
+Annie Haslam Production,Annie Haslam,Merriweather Post Pavilion,1/12/2020,5.3,65
+Birthday Party Production,Birthday Party,The Howard Theater,1/13/2020,5.45,100
+Big Bad Voodoo Daddy Production,Big Bad Voodoo Daddy,Bohemian Caverns,1/14/2020,6,100
+Bigelf Production,Bigelf,Blues Alley,1/15/2020,6.15,100
+Abra Moore Production,Abra Moore,U Street Music Hall,1/16/2020,6.3,100
+Beirut Production,Beirut,Rock & Roll Hotel,1/17/2020,6.45,100
+Atlanta Rhythm Section Production,Atlanta Rhythm Section,Eighteenth Street Lounge,1/18/2020,7,100
+Ash Production,Ash,Iffy Lube Live,1/19/2020,7.15,100
+America Production,America,Black Cat,1/20/2020,7.3,100
+Axe Production,Axe,The Birchmere,1/21/2020,7.45,100
+Amy Studt Production,Amy Studt,9:30 Club,1/22/2020,8,100
+Asia Production,Asia,The Kennedy Center,1/23/2020,8.15,100
+A. A. Bondy Production,A. A. Bondy,Echostage,1/24/2020,8.3,100
+Arthur Brown Production,Arthur Brown,The Fillmore Silver Spring,1/25/2020,8.45,100
+B Production,B,The George Washington University Lisner Auditorium,1/26/2020,9,100
+Atomic Rooster Production,Atomic Rooster,Verizon Center,1/27/2020,9.15,100
+Aqme Production,Aqme,Dar Constitution Hall,1/28/2020,9.3,100
+Ben Folds Production,Ben Folds,The Hamilton,1/29/2020,9.45,100
+Angus Khan Production,Angus Khan,Dc9,1/30/2020,10,100
+Black Angels Production,Black Angels,Red Palace,1/31/2020,10.15,100
+Ben'S Brother Production,Ben'S Brother,Warner Theatre,2/1/2020,10.3,100
+Badly Drawn Boy Production,Badly Drawn Boy,Wolf Trap,2/2/2020,10.45,45
+Avalon Production,Avalon,Lincoln Theatre,2/3/2020,11,45
+Bjork Production,Bjork,Merriweather Post Pavilion,2/4/2020,11.15,45
+Ambrosia Production,Ambrosia,The Howard Theater,2/5/2020,11.3,45
+Billy Thorpe Production,Billy Thorpe,Bohemian Caverns,2/6/2020,11.45,45
+Andead Production,Andead,Blues Alley,2/7/2020,12,45
+Bill Wyman Production,Bill Wyman,U Street Music Hall,2/8/2020,12.15,45
+Absynthe Minded Production,Absynthe Minded,Rock & Roll Hotel,2/9/2020,12.3,45
+Art Of Noise Production,Art Of Noise,Eighteenth Street Lounge,2/10/2020,12.45,50
+Aselin Debison Production,Aselin Debison,Iffy Lube Live,2/11/2020,13,50
+Alisha'S Attic Production,Alisha'S Attic,Black Cat,2/12/2020,13.15,50
+Black Dice Production,Black Dice,The Birchmere,2/13/2020,13.3,50
+Angel Witch Production,Angel Witch,9:30 Club,2/14/2020,13.45,50
+Architect Production,Architect,The Kennedy Center,2/15/2020,14,50
+Amiina Production,Amiina,Echostage,2/16/2020,14.15,50
+Ace Frehley Production,Ace Frehley,The Fillmore Silver Spring,2/17/2020,14.3,50
+Alannah Myles Production,Alannah Myles,The George Washington University Lisner Auditorium,2/18/2020,14.45,50
+Animal Collective Production,Animal Collective,Verizon Center,2/19/2020,15,50
+Beautiful Lies Production,Beautiful Lies,Dar Constitution Hall,2/20/2020,15.15,65
+Angelfish Production,Angelfish,The Hamilton,2/21/2020,15.3,65
+Bachman-Turner Overdrive Production,Bachman-Turner Overdrive,Dc9,2/22/2020,15.45,65
+Barbra Streisand Production,Barbra Streisand,Red Palace,2/23/2020,16,65
+Alexander Rybak Production,Alexander Rybak,Warner Theatre,2/24/2020,16.15,65
+April Wine Production,April Wine,Wolf Trap,2/25/2020,16.3,65
+Andrew W Production,Andrew W,Lincoln Theatre,2/26/2020,16.45,65
+Bbmak Production,Bbmak,Merriweather Post Pavilion,2/27/2020,17,65
+Adrian Borland Production,Adrian Borland,The Howard Theater,2/28/2020,17.15,65
+Alio Die & Yannick Dauby Production,Alio Die & Yannick Dauby,Bohemian Caverns,2/29/2020,17.3,65
+Aids Wolf Production,Aids Wolf,Blues Alley,3/1/2020,17.45,65
+Alanis Morissette Production,Alanis Morissette,U Street Music Hall,3/2/2020,18,65
+Abba Production,Abba,Rock & Roll Hotel,3/3/2020,18.15,65
+A Perfect Friend Production,A Perfect Friend,Eighteenth Street Lounge,3/4/2020,18.3,65
+Amy Grant Production,Amy Grant,Iffy Lube Live,3/5/2020,18.45,65
+Angel Taylor Production,Angel Taylor,Black Cat,3/6/2020,19,100
+A-Ha Production,A-Ha,The Birchmere,3/7/2020,19.15,100
+Billy Ocean Production,Billy Ocean,9:30 Club,3/8/2020,19.3,100
+Ann Wilson Production,Ann Wilson,The Kennedy Center,3/9/2020,19.45,100
+Angelic Upstarts Production,Angelic Upstarts,Echostage,3/10/2020,20,100
+Alejandra Guzman Production,Alejandra Guzman,The Fillmore Silver Spring,3/11/2020,20.15,100
+Behold Production,Behold,The Fillmore Silver Spring,3/12/2020,20.3,100
+Barry Manilow Production,Barry Manilow,The Fillmore Silver Spring,3/13/2020,20.45,100
